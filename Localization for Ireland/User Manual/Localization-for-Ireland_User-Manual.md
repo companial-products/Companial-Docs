@@ -48,7 +48,7 @@
 **Localization for Ireland**
 
 <figure>
-<img src="images/Localization-for-Ireland_User-manual/image1.png" style="width:2.25in;height:0.57686in" />
+<img src="images/Localization-for-Ireland_User-Manual/image1.png" style="width:2.25in;height:0.57686in" />
 <figcaption><p>Microsoft Dynamics 365 Business Central</p></figcaption>
 </figure>
 
@@ -76,35 +76,35 @@ Upon installation of the Localization for Ireland extension, it is required to a
 
 2.  Click on “Validate License” action.
 
-    <img src="images/Localization-for-Ireland_User-manual/image2.png" style="width:6.29444in;height:1.63889in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image2.png" style="width:6.29444in;height:1.63889in" />
 
 3.  “End User Agreement License” window will pop up. Review the conditions and mark “I accept the terms and conditions” and Click OK.
 
-    <img src="images/Localization-for-Ireland_User-manual/image3.png" style="width:6.19167in;height:2.95in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image3.png" style="width:6.19167in;height:2.95in" />
 
 4.  Save the Key and Click OK.
 
-    <img src="images/Localization-for-Ireland_User-manual/image4.png" style="width:6.29444in;height:1.37153in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image4.png" style="width:6.29444in;height:1.37153in" />
 
 5.  The following record will be created in “Companial Licenses” page.
 
-    <img src="images/Localization-for-Ireland_User-manual/image5.png" style="width:6.29444in;height:0.70625in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image5.png" style="width:6.29444in;height:0.70625in" />
 
 6.  Click on “User Assignment” action
 
-    <img src="images/Localization-for-Ireland_User-manual/image6.png" style="width:6.29444in;height:1.06597in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image6.png" style="width:6.29444in;height:1.06597in" />
 
 7.  “App User Assignment” page will pop up
 
 8.  Click on “Add All Users”
 
-    <img src="images/Localization-for-Ireland_User-manual/image7.png" style="width:6.29444in;height:1.96528in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image7.png" style="width:6.29444in;height:1.96528in" />
 
 9.  App User Assignment list is populated with available users, and notification message is shown with number of users added
 
 10.  Set focus on the user record and click on “Enable/Disable License”
 
-     <img src="images/Localization-for-Ireland_User-manual/image8.png" style="width:6.29444in;height:3.87986in" />
+     <img src="images/Localization-for-Ireland_User-Manual/image8.png" style="width:6.29444in;height:3.87986in" />
 
 11.  Once users are assigned, they will have access to the extension functionalities.
 
@@ -134,7 +134,7 @@ On the VAT report setup, the following fields must be configured:
 
 - Report Version: Specifies the VAT report version that is used for the VAT reporting
 
-  <img src="images/Localization-for-Ireland_User-manual/image9.png" style="width:6.29167in;height:2.64583in" />
+  <img src="images/Localization-for-Ireland_User-Manual/image9.png" style="width:6.29167in;height:2.64583in" />
 
 Allow Modification field is read-only and disabled unless Bypass IE Localization Checks is enabled on VAT Setup page
 
@@ -144,7 +144,7 @@ Allow Modification field is read-only and disabled unless Bypass IE Localization
 
 3.  Locate the Ireland VAT3 Return FastTab
 
-    <img src="images/Localization-for-Ireland_User-manual/image10.png" style="width:6.42062in;height:2.97153in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image10.png" style="width:6.42062in;height:2.97153in" />
 
 | Field | Description | Options |
 |:--:|----|----|
@@ -179,7 +179,7 @@ The Ireland Localization allows you to customize the name of the "Post Code" fie
 
 2.  Select a country (e.g., IE - Ireland)
 
-    <img src="images/Localization-for-Ireland_User-manual/image11.png" style="width:6.02114in;height:1.54066in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image11.png" style="width:6.02114in;height:1.54066in" />
 
     1. Ireland: Eircode
 
@@ -211,7 +211,7 @@ The VAT Statement must be structured according to the Irish VAT3 Return requirem
 
 2.  Create or modify your VAT Statement Template for Ireland
 
-    <img src="images/Localization-for-Ireland_User-manual/image12.png" style="width:5.75365in;height:3.25189in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image12.png" style="width:5.75365in;height:3.25189in" />
 
 3.  Ensure each row includes:
 
@@ -243,7 +243,7 @@ The VAT3 Return Mapping table links VAT Statement box numbers to XML elements in
 
 2.  Click Actions → VAT3 Return Mapping
 
-    <img src="images/Localization-for-Ireland_User-manual/image13.png" style="width:4.63132in;height:2.17168in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image13.png" style="width:4.63132in;height:2.17168in" />
 
 3.  On the VAT3 Return Mapping page, click Auto-fill Mapping
 
@@ -269,11 +269,11 @@ Specifies that VAT should be reported using the Payments Received basis, where V
 
 2.  Ensure that the “Unrealized VAT” toggles are enabled:
 
-    <img src="images/Localization-for-Ireland_User-manual/image14.png" style="width:5.94505in;height:1.95722in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image14.png" style="width:5.94505in;height:1.95722in" />
 
 3.  Create or select a cash-basis VAT Business Posting Group (for example, “DOMESTIC-CASH”). In VAT Posting Setup, configure each applicable VAT Business/Product Posting Group combination with the appropriate VAT rate, Sales VAT Account, Sales VAT Unreal. Account, and Unrealized VAT Type (for example, Percentage for proportional recognition as payments are applied). Assign the configured group to the customer, directly or through a customer template. “DOMESTIC-CASH” and “Cash-Payment Customer” are example names; create and configure them if they are not already available.
 
-    <img src="images/Localization-for-Ireland_User-manual/image15.png" style="width:6.15in;height:2.77083in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image15.png" style="width:6.15in;height:2.77083in" />
 
 4.  After the invoice is posted and the cash receipt journal is applied, two VAT entries are created with document types of: Invoice and Payment.
 
@@ -287,7 +287,7 @@ VAT Return Periods define the time frames for VAT reporting.
 
 1.  Navigate to VAT Return Periods (search for "VAT Return Periods")
 
-    <img src="images/Localization-for-Ireland_User-manual/image16.png" style="width:6.26389in;height:1.14722in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image16.png" style="width:6.26389in;height:1.14722in" />
 
 2.  Click New and enter:
 
@@ -311,7 +311,7 @@ Standard VAT Returns are the normal, periodic submissions to Irish Revenue.
 
     3. Select VAT Report Version (the one from VAT Report Configuration)
 
-       <img src="images/Localization-for-Ireland_User-manual/image17.png" style="width:5.44444in;height:2.64302in" />
+       <img src="images/Localization-for-Ireland_User-Manual/image17.png" style="width:5.44444in;height:2.64302in" />
 
     4. Specify Return Period (Start Date, End Date)
 
@@ -325,7 +325,7 @@ Standard VAT Returns are the normal, periodic submissions to Irish Revenue.
 
     1. On the VAT Return card, click Actions → Suggest Lines
 
-       <img src="images/Localization-for-Ireland_User-manual/image18.png" style="width:5.80296in;height:1.65918in" />
+       <img src="images/Localization-for-Ireland_User-Manual/image18.png" style="width:5.80296in;height:1.65918in" />
 
     2. On the request page, configure:
 
@@ -349,7 +349,7 @@ Standard VAT Returns are the normal, periodic submissions to Irish Revenue.
 
     3. Click OK. The system populates the Report Lines FastTab with VAT amounts for each box.
 
-       <img src="images/Localization-for-Ireland_User-manual/image19.png" style="width:6.26389in;height:1.92708in" />
+       <img src="images/Localization-for-Ireland_User-Manual/image19.png" style="width:6.26389in;height:1.92708in" />
 
 3.  Review Report Lines
 
@@ -375,7 +375,7 @@ a. On the Unusual Expenditure FastTab:
 
 - Unusual Expenditure Details - Enter description (max 50 characters)
 
-    <img src="images/Localization-for-Ireland_User-manual/image20.png" style="width:6.26389in;height:2.77153in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image20.png" style="width:6.26389in;height:2.77153in" />
 
 5.  Release VAT Return
 
@@ -471,7 +471,7 @@ Once a VAT Return is released, generate the XML file for submission to Irish Rev
 
 1.  On the released VAT Return, click Home → Generate
 
-    <img src="images/Localization-for-Ireland_User-manual/image21.png" style="width:6.06976in;height:1.73422in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image21.png" style="width:6.06976in;height:1.73422in" />
 
 2.  The system:
 
@@ -483,7 +483,7 @@ Once a VAT Return is released, generate the XML file for submission to Irish Rev
 
     4. Attaches the XML to the VAT Return as a Document Attachment
 
-       <img src="images/Localization-for-Ireland_User-manual/image22.png" style="width:6.26389in;height:1.87778in" />
+       <img src="images/Localization-for-Ireland_User-Manual/image22.png" style="width:6.26389in;height:1.87778in" />
 
 **Note**: Submitted VAT3 Return attachments cannot be deleted
 
@@ -509,7 +509,7 @@ The VAT3 Return XML includes:
 
 - Unusual Expenditure details (if applicable)
 
-  <img src="images/Localization-for-Ireland_User-manual/image23.png" style="width:6.26389in;height:1.10486in" />
+  <img src="images/Localization-for-Ireland_User-Manual/image23.png" style="width:6.26389in;height:1.10486in" />
 
 ### Submitting VAT Returns
 
@@ -595,7 +595,7 @@ The VAT Audit Report exports data in CSV format for audit purposes. It provides 
 
 2.  Click Reports → VAT Audit Report
 
-    <img src="images/Localization-for-Ireland_User-manual/image24.png" style="width:3.27667in;height:1.85094in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image24.png" style="width:3.27667in;height:1.85094in" />
 
 3.  Report Request Page:
 
@@ -637,7 +637,7 @@ The VAT Audit Report exports data in CSV format for audit purposes. It provides 
 
             2. Other datasets (Customer, Vendor, Ledger Entries): Standard table filters available but no specific date range filter on request page
 
-               <img src="images/Localization-for-Ireland_User-manual/image25.png" style="width:3.4692in;height:4.1645in" />
+               <img src="images/Localization-for-Ireland_User-Manual/image25.png" style="width:3.4692in;height:4.1645in" />
 
     3. User Feedback. Progress windows display during export for each dataset:
 
@@ -736,7 +736,7 @@ The VAT Entry Exception Report identifies VAT entries with potential errors or u
 
 2.  Click Reports → VAT Entry Exception Report
 
-    <img src="images/Localization-for-Ireland_User-manual/image26.png" style="width:3.20006in;height:1.82414in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image26.png" style="width:3.20006in;height:1.82414in" />
 
 3.  Report Request Page
 
@@ -752,7 +752,7 @@ The VAT Entry Exception Report identifies VAT entries with potential errors or u
 
 **Note**: At least one validation check must be enabled to run the report.
 
-<img src="images/Localization-for-Ireland_User-manual/image27.png" style="width:4.6639in;height:6.10795in" />
+<img src="images/Localization-for-Ireland_User-Manual/image27.png" style="width:4.6639in;height:6.10795in" />
 
 2. Threshold Parameters:
 
@@ -906,7 +906,7 @@ Irish tax authorities require the customer's VAT Registration Number to be displ
 
         3. Display Location: Customer VAT registration number printed in customer information section.
 
-           <img src="images/Localization-for-Ireland_User-manual/image28.png" style="width:4.54495in;height:2.3517in" />
+           <img src="images/Localization-for-Ireland_User-Manual/image28.png" style="width:4.54495in;height:2.3517in" />
 
 ### Posted Sales Credit Memo
 
@@ -926,7 +926,7 @@ Similar to invoices, credit memos must display the customer's VAT Registration N
 
         3. Display Location: Customer VAT registration number printed in customer information section.
 
-           <img src="images/Localization-for-Ireland_User-manual/image29.png" style="width:4.57733in;height:1.96767in" />
+           <img src="images/Localization-for-Ireland_User-Manual/image29.png" style="width:4.57733in;height:1.96767in" />
 
 ### Report Selection
 
@@ -1074,7 +1074,7 @@ To enable the connection, start by completing the setup in the relevant setup pa
 
 1.  Navigate to CRO CORE Integration Setup page:
 
-    <img src="images/Localization-for-Ireland_User-manual/image30.png" style="width:6.29444in;height:2.40208in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image30.png" style="width:6.29444in;height:2.40208in" />
 
 2.  On Integration setup, following fields must be configured:
 
@@ -1088,7 +1088,7 @@ To enable the connection, start by completing the setup in the relevant setup pa
 
 3.  Test Connection action validates that your CRO credentials are correct and the CRO service is reachable before you use the lookup feature:
 
-    <img src="images/Localization-for-Ireland_User-manual/image31.png" style="width:5.25in;height:1.83333in" /> 
+    <img src="images/Localization-for-Ireland_User-Manual/image31.png" style="width:5.25in;height:1.83333in" /> 
 
 4.  Configure the following fields:
 
@@ -1189,7 +1189,7 @@ Retrieve company information from the Companies Registration Office (CRO) by sea
 
 1.  Navigate to Lookup from CRO action:
 
-    <img src="images/Localization-for-Ireland_User-manual/image32.png" style="width:6.29444in;height:1.11944in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image32.png" style="width:6.29444in;height:1.11944in" />
 
 The CRO lookup is available on three card pages: 
 
@@ -1201,15 +1201,15 @@ The CRO lookup is available on three card pages: 
 
 2.  Enter search criteria in the dialog page:
 
-    <img src="images/Localization-for-Ireland_User-manual/image33.png" style="width:6.275in;height:3in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image33.png" style="width:6.275in;height:3in" />
 
 3.  Review the results list - list opens showing all matching companies from the CRO:
 
-    <img src="images/Localization-for-Ireland_User-manual/image34.png" style="width:6.29444in;height:1.81597in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image34.png" style="width:6.29444in;height:1.81597in" />
 
 4.  Select the correct company by clicking the row with the company you want. The first result is pre-selected. Click Apply - CRO data is applied into your entity record:
 
-    <img src="images/Localization-for-Ireland_User-manual/image35.png" style="width:5.25in;height:1.83333in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image35.png" style="width:5.25in;height:1.83333in" />
 
 ### Existing Entity validation flow 
 
@@ -1241,7 +1241,7 @@ Key Characteristics: 
 
 The **Logging** field on the CRO CORE Integration Setup page controls which activities are recorded and defaults to **Error Only**. Choose **All**, **Error Only**, or **Disabled** before using the lookup; the behaviors are described below. 
 
-<img src="images/Localization-for-Ireland_User-manual/image36.png" style="width:5.30919in;height:2.39628in" />
+<img src="images/Localization-for-Ireland_User-Manual/image36.png" style="width:5.30919in;height:2.39628in" />
 
 When All is selected on Setup page, the system creates a log entry for: 
 
@@ -1267,7 +1267,7 @@ How to open the log: 
 
 3.  From any Customer, Vendor, or Contact card, click Open Lookup Log in the Processing menu. This shows only lookups for that specific record:
 
-    <img src="images/Localization-for-Ireland_User-manual/image37.png" style="width:6.29444in;height:1.97083in" /> 
+    <img src="images/Localization-for-Ireland_User-Manual/image37.png" style="width:6.29444in;height:1.97083in" /> 
 
 The table contains the list of fields: 
 
@@ -1325,7 +1325,7 @@ Assumptions: 
 
 2.  Locate the Ireland Section 56  FastTab:
 
-    <img src="images/Localization-for-Ireland_User-manual/image38.png" style="width:6.29444in;height:2.19792in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image38.png" style="width:6.29444in;height:2.19792in" />
 
 3.  Configure the following fields:
 
@@ -1367,7 +1367,7 @@ Assumptions: 
 
 2.  Locate the Invoicing FastTab:
 
-    <img src="images/Localization-for-Ireland_User-manual/image39.png" style="width:5.02674in;height:4.43722in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image39.png" style="width:5.02674in;height:4.43722in" />
 
 The section contains the list of fields: 
 
@@ -1385,7 +1385,7 @@ The section contains the list of fields: 
 
 2.  Click on action “+ New”:
 
-    <img src="images/Localization-for-Ireland_User-manual/image40.png" style="width:5.12957in;height:1.5508in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image40.png" style="width:5.12957in;height:1.5508in" />
 
 3.  Select Customer No. 50000.
 
@@ -1399,12 +1399,12 @@ The section contains the list of fields: 
 
 8.  Confirm lines update if Update Document VAT56B Posting Group on Release disabled on Setup page:
 
-    <img src="images/Localization-for-Ireland_User-manual/image41.png" style="width:5.29167in;height:1.84167in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image41.png" style="width:5.29167in;height:1.84167in" />
 
 9.  Open a new Posted Sales Invoice and click “Find Entries”:
 
-    <img src="images/Localization-for-Ireland_User-manual/image42.png" style="width:5.83333in;height:1.58333in" />
+    <img src="images/Localization-for-Ireland_User-Manual/image42.png" style="width:5.83333in;height:1.58333in" />
 
 10.  Click on “VAT Entry” and confirm that VAT56B Default Product Posting group is applied:
 
-     <img src="images/Localization-for-Ireland_User-manual/image43.png" style="width:5.93048in;height:1.82809in" />
+     <img src="images/Localization-for-Ireland_User-Manual/image43.png" style="width:5.93048in;height:1.82809in" />
