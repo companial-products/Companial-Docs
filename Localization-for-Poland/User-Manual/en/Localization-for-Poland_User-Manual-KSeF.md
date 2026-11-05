@@ -61,7 +61,7 @@
 **Localization for Poland**
 
 <figure>
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image1.png" style="width:2.25in;height:0.57686in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image1.png" style="width:2.25in;height:0.57686in" />
 <figcaption><p>Microsoft Dynamics 365 Business Central</p></figcaption>
 </figure>
 
@@ -292,7 +292,7 @@ Additional permissions (e.g. within E-Document Services) are required to properl
 
 The KSeF Setup page is used to enter the company’s identification data and to configure settings related to the integration with the National e-Invoicing System (Krajowy System e‑Faktur – KSeF). Correct completion of the fields on this page is a prerequisite for the proper operation of all subsequent KSeF-related processes, including: generation, receiving and processing of KSeF documents.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image2.png" style="width:5.11832in;height:2.96543in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image2.png" style="width:5.11832in;height:2.96543in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
 
 ### Tabs containing data visible in the structured invoice
 
@@ -334,7 +334,7 @@ This tab can be completed with the company’s contact details, such as e‑mail
 
 This tab can be completed with information that the company wants to display in the invoice footer. This may include standard information placed in the invoice printout footer, such as company registration details, website address, etc. KSeF does not impose any specific requirements in this area.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image3.png" style="width:6.25972in;height:5.81042in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image3.png" style="width:6.25972in;height:5.81042in" />
 
 ### KSeF System Tabs and Configuration Fields
 
@@ -407,7 +407,7 @@ This tab allows configuration of parameters specific to communication with KSeF 
 
 This tab allows managing the use of **KSeF logical structure versions** in accordance with the requirements of the Ministry of Finance.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image4.png" style="width:6.26389in;height:4.25in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image4.png" style="width:6.26389in;height:4.25in" />
 
 ### Import KSeF Visualization from an XSL File
 
@@ -417,19 +417,19 @@ To import a file, select:
 
 Actions → Import Visualization XSL File
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image5.png" style="width:4.5423in;height:1.70857in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image5.png" style="width:4.5423in;height:1.70857in" />
 
 ## KSeF VAT rates mapping
 
 → VAT Posting Setup
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image6.png" style="width:5.43264in;height:3.18472in" />In the **KSeF VAT Rate** field, VAT rates must be assigned to the appropriate VAT posting combinations that are to be exported to KSeF in structured invoices. Each relevant VAT posting combination should have the appropriate **KSeF VAT Rate** assigned, which will be transmitted to KSeF. Selecting the value *None* means that the given posting combination will not be exported to KSeF. Correct assignment of VAT rates is required to ensure that generated invoices comply with KSeF requirements.
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image6.png" style="width:5.43264in;height:3.18472in" />In the **KSeF VAT Rate** field, VAT rates must be assigned to the appropriate VAT posting combinations that are to be exported to KSeF in structured invoices. Each relevant VAT posting combination should have the appropriate **KSeF VAT Rate** assigned, which will be transmitted to KSeF. Selecting the value *None* means that the given posting combination will not be exported to KSeF. Correct assignment of VAT rates is required to ensure that generated invoices comply with KSeF requirements.
 
 It is possible to define the fields **Default KSeF Purchase Status** and **Default KSeF Sales Status** for the relevant posting combinations. The values from these fields will be applied to documents for which the KSeF status has not been specified. These may include, for example, documents that do not exist in KSeF. For such documents, values such as **BFK – Invoice outside KSeF** or **DI – Other document** can be selected. If a document does not have any KSeF status assigned and does not have a KSeF ID number, errors may occur during the creation of **SAFT VAT (JPK)** declarations.
 
 To define the legal basis for VAT exemption that affects the population of fields **P_19_A / P_19_B / P_19_C** in KSeF, its description must be entered in the appropriate column for the given posting combination in **VAT Posting Setup**.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image7.png" style="width:3.79653in;height:1.70417in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image7.png" style="width:3.79653in;height:1.70417in" />
 
 ## KSeF Reverse Charge
 
@@ -464,7 +464,7 @@ Field **P_18** is fully supported in the **FA(3)** KSeF structure. Localization 
 
 → VAT Posting Setup
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image8.png" style="width:6.26319in;height:1.59792in" />If, in **VAT Posting Setup**, at the level of VAT posting combinations, the field **KSeF Reverse Charge** is set to *True*, the system respects this setting and uses it unconditionally when generating the KSeF invoice.
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image8.png" style="width:6.26319in;height:1.59792in" />If, in **VAT Posting Setup**, at the level of VAT posting combinations, the field **KSeF Reverse Charge** is set to *True*, the system respects this setting and uses it unconditionally when generating the KSeF invoice.
 
 This means that the user can enforce the behavior of field **P_18** for specific business scenarios.
 
@@ -498,7 +498,7 @@ Correct country classification is required to ensure the correctness of the **XM
 
 For each country belonging to the European Union, the **EU Country/Region Code** field must be completed.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image9.png" style="width:6.25984in;height:3.62598in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image9.png" style="width:6.25984in;height:3.62598in" />
 
 ## Bank accounts setup and mechanism description
 
@@ -563,15 +563,15 @@ KSeF Connection Configuration
 
 The **E‑Document Service** page is used, among other things, to select settings for exporting and importing files to and from KSeF. After opening the page, a **new service dedicated to KSeF** must be created by adding a new line.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image10.png" style="width:5.11024in;height:1.45276in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image10.png" style="width:5.11024in;height:1.45276in" />
 
 In the **Document Format** field, select **KSeF FA(3)** and choose **KSeF – Polish National e‑Invoicing System** in the **Service Integration** field.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image11.png" style="width:5.74583in;height:1.41775in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image11.png" style="width:5.74583in;height:1.41775in" />
 
 After selecting **Service Integration Setup**, it is possible to choose the environment: Test, Demo or Production using the **Environment** option. Based on the selected environment, the KSeF system automatically fills in the **API Base URL** field.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image12.png" style="width:6.26389in;height:3.10833in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image12.png" style="width:6.26389in;height:3.10833in" />
 
 It is also possible to download public certificates using the **Download Public Certificates** option. However, this is **not required at this stage**, as it is one of the steps performed within the **KSeF Configuration Wizard**, which is described in subsequent chapters of this guide. Public certificates can be downloaded multiple times and are overwritten each time.
 
@@ -579,11 +579,11 @@ It is also possible to download public certificates using the **Download Public 
 
 To correctly use KSeF functionality that requires a KSeF certificate, the **certificate must first be generated in the KSeF Taxpayer Application** (Aplikacja Podatnika KSeF), assigning it a name and a password.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image13.png" style="width:4.59861in;height:3.16111in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image13.png" style="width:4.59861in;height:3.16111in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
 
 After generating the certificate, it must be downloaded. Two files will be downloaded: one in **.crt** format and the other in **.key** format.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image14.png" style="width:5.5in;height:0.95833in" alt="Obraz zawierający tekst, Czcionka, linia, zrzut ekranu Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image14.png" style="width:5.5in;height:0.95833in" alt="Obraz zawierający tekst, Czcionka, linia, zrzut ekranu Zawartość wygenerowana przez AI może być niepoprawna." />
 
 **\*The following steps should be performed by an IT administrator or with their assistance.**
 
@@ -593,11 +593,11 @@ After generating the certificate, it must be downloaded. Two files will be downl
 
 - If **OpenSSL** is already installed, you need to open the **Windows PowerShell** tool.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image15.png" style="width:5.83472in;height:4.67569in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image15.png" style="width:5.83472in;height:4.67569in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
 
 - After opening the **Windows PowerShell** tool, the user will be able to enter commands
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image16.png" style="width:6.26389in;height:1.19187in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image16.png" style="width:6.26389in;height:1.19187in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
 
 - Navigate to the folder where openssl.exe is located, for example:
 
@@ -617,59 +617,59 @@ After generating the certificate, it must be downloaded. Two files will be downl
 
 While typing the password, it will not be visible in any form: not as letters, digits, or special characters, nor as dots, asterisks or any other symbols that usually appear in password input fields.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image17.png" style="width:3.75714in;height:0.59031in" alt="Obraz zawierający tekst, Czcionka, zrzut ekranu, Grafika Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image17.png" style="width:3.75714in;height:0.59031in" alt="Obraz zawierający tekst, Czcionka, zrzut ekranu, Grafika Zawartość wygenerowana przez AI może być niepoprawna." />
 
 - After completing the above steps, an additional file in .pem format will appear in the folder where the certificate files downloaded from the KSeF Taxpayer Application were previously stored.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image18.png" style="width:4.34745in;height:1.28479in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image18.png" style="width:4.34745in;height:1.28479in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
 
 - Next, in Microsoft Business Central, go to the **E-Document Services** page, select the **KSEF** entry, then choose the **Set up service integration** option, followed by the **Configuration Wizard.**
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image19.png" style="width:4.80833in;height:1.41667in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image19.png" style="width:4.80833in;height:1.41667in" />
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image20.png" style="width:6.15347in;height:2.54514in" /><img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image21.png" style="width:4.78472in;height:1.59722in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image20.png" style="width:6.15347in;height:2.54514in" /><img src="images/Localization-for-Poland_User-Manual-KSeF/image21.png" style="width:4.78472in;height:1.59722in" />
 
 - In the **KSeF Environment Configuration Wizard** go to the step 'Import the ECDSA signing certificate'. In the Certificate Action field, select **Import New Certificate**, and click Next.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image22.png" style="width:6.23125in;height:3.89861in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image22.png" style="width:6.23125in;height:3.89861in" />
 
 - In the next step select **Click here to load certificate file.** and select the certificate file with the .crt extension, then choose **Next**.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image23.png" style="width:5.47431in;height:2.07569in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image23.png" style="width:5.47431in;height:2.07569in" />
 
 - In the next step, use the option **Click here** **to load the private key file**, select the certificate file in .pem format, and choose **Next.**
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image24.png" style="width:4.65208in;height:1.89931in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image24.png" style="width:4.65208in;height:1.89931in" />
 
 - The user will be informed that the Certificate has been successfully imported.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image25.png" style="width:3in;height:2.5in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image25.png" style="width:3in;height:2.5in" />
 
 - Next, the public certificates must be downloaded by clicking \>\> **Click here to download public certificates.** After this, the user will be informed that the public certificates have been successfully downloaded.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image26.png" style="width:3.98056in;height:3.17222in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image26.png" style="width:3.98056in;height:3.17222in" />
 
 - In the final step, the user must confirm the completion of the configuration. A message will be displayed indicating that the KSeF environment has been successfully configured.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image27.png" style="width:4.97638in;height:1.64567in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image27.png" style="width:4.97638in;height:1.64567in" />
 
 ## Managing KSeF Connection Sessions and Official Receipt Confirmation (UPO)
 
 Using the **Session Management** action takes the user to the **session manager view**, where all connection sessions and their statuses can be reviewed. During the process of sending a KSeF file, the system establishes a session. Based on this session, the system sends the file, retrieves the Official Receipt Confirmation (Urzędowe Potwierdzenie Odbioru – UPO), and stores it in this view. The session management view allows the user to check, among other things: the session environment, session type, session status and status code, the total number of files sent within the session and how many of them were sent successfully, unsuccessfully or whether the session has been completed.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image28.png" style="width:6.26389in;height:1.40531in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image28.png" style="width:6.26389in;height:1.40531in" />
 
 To access the UPO preview, select the appropriate session in the **KSeF Session Management** view and choose the **View UPO** action**.**
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image29.png" style="width:4.90278in;height:1.67292in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image29.png" style="width:4.90278in;height:1.67292in" />
 
 UPO for sent KSeF documents can also be checked from the level of a specific document on the **KSeF – Invoice** page, in the **UPO** section. This section contains information about whether the UPO has been processed, when it was sent, and the encoded UPO number.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image30.png" style="width:5.93472in;height:1.57569in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image30.png" style="width:5.93472in;height:1.57569in" />
 
 In the **Session** section, the user can check the session number in which a given document was sent, as well as the date and time of sending.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image31.png" style="width:5.81944in;height:4.39444in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image31.png" style="width:5.81944in;height:4.39444in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
 
 If the **UPO** and **Session** sections are not visible to the user, they must be added using the **Personalize** option.
 
@@ -677,11 +677,11 @@ If the **UPO** and **Session** sections are not visible to the user, they must b
 
 The process of generating and sending documents to the National e‑Invoicing System (KSeF) begins with issuing a sales invoice or a sales credit memo. A document can be created from the following pages: **Posted Sales Invoice, Posted Sales Invoices, KSeF – Invoice List, Sales Order, Sales Return Order, or Sales Credit Memo**. The invoice is issued in the standard way, by completing all required fields and posting the document. Posting the document itself does not automatically send it to KSeF, unless automatic sending to KSeF has been configured to run each time an invoice is posted. In all cases, posting and sending to KSeF are completely separate processes in Business Central.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image32.png" style="width:6.26042in;height:3.14583in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image32.png" style="width:6.26042in;height:3.14583in" />
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image33.png" style="width:6.26042in;height:1.54167in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image33.png" style="width:6.26042in;height:1.54167in" />
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image34.png" style="width:6.68485in;height:1.3125in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image34.png" style="width:6.68485in;height:1.3125in" />
 
 ## Additional fields on Posted Sales Invoices
 
@@ -709,31 +709,31 @@ After posting the invoice, a KSeF document must be created. To do this, from the
 
 **Open KSeF document** – if the KSeF document has already been created earlier, it is displayed.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image35.png" style="width:5.45669in;height:2.3937in" />**Create KSeF document** – if the KSeF document does not exist, it must be generated using this option. If a KSeF document already exists, running this action creates a new document and deletes the previous one, provided that the document has not yet been sent.
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image35.png" style="width:5.45669in;height:2.3937in" />**Create KSeF document** – if the KSeF document does not exist, it must be generated using this option. If a KSeF document already exists, running this action creates a new document and deletes the previous one, provided that the document has not yet been sent.
 
 After selecting **Open KSeF document** or **Create KSeF document**, the **KSeF – Invoice** page opens. This page presents the data of the document prepared for sending to KSeF. The form contains information retrieved from the source invoice and additional elements from the XML structure sent to KSeF.
 
 The **KSeF – Invoice** page can also be accessed from the **KSeF – Invoice List** page by selecting a document and clicking its number in the **No.** column.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image36.png" style="width:6.26042in;height:1.86458in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image36.png" style="width:6.26042in;height:1.86458in" />
 
 On the **KSeF – Invoice** page, selected fields can be edited before sending the document. The data shown corresponds to the structure of the XML file that will be transmitted to the KSeF system.
 
 If the **Create and Edit** processing option was selected, the KSeF document initially receives status **New**. In this case, the user can change the document status to **Ready to Send** or **Cancelled** by selecting **Actions → Status**.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image37.png" style="width:4.45128in;height:1.35385in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image37.png" style="width:4.45128in;height:1.35385in" />
 
 Additionally, from the **KSeF – Invoice** page, operations related to the XML file are also available, including creation of the XML document, export of the file, import of an external file, validation of the structure and preview of the XML file.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image38.png" style="width:4.93312in;height:1.26923in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image38.png" style="width:4.93312in;height:1.26923in" />
 
 ## Skipping Sending to KSeF for a Sales Invoice
 
 If the **Edit Document Processing Method Allowed** option is enabled in **KSeF Setup**, then on the sales invoice or posted sales invoice that has not yet been sent to KSeF, the **KSeF Document Processing** field includes the **Skip in KSeF** option. This option allows the document to be excluded from the KSeF sending process.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image39.png" style="width:3.28631in;height:2.92183in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image39.png" style="width:3.28631in;height:2.92183in" />
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image40.png" style="width:5.22014in;height:3.00278in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image40.png" style="width:5.22014in;height:3.00278in" />
 
 It is also possible to define the document processing method on the customer card. For a selected customer, it can be specified that documents should be skipped in KSeF. In this case, the **Skip in KSeF** option is automatically applied to all invoices issued for that customer.
 
@@ -753,7 +753,7 @@ The **Podmiot2K** section:
 
 - is generated exclusively for customer data corrections,
 
-- <img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image41.png" style="width:4.99606in;height:2.16535in" />ensures compliance of the document with the requirements of the KSeF FA(3) structure.
+- <img src="images/Localization-for-Poland_User-Manual-KSeF/image41.png" style="width:4.99606in;height:2.16535in" />ensures compliance of the document with the requirements of the KSeF FA(3) structure.
 
 ### Issuing customer data correction for KSeF
 
@@ -803,22 +803,22 @@ The list view allows quick verification of document statuses and includes, among
 
 - **Customer No. / Customer Name / Customer Address / Customer Country Code** – customer identification data.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image42.png" style="width:6.375in;height:1.66535in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image42.png" style="width:6.375in;height:1.66535in" />
 
 This view allows monitoring all invoices reported to KSeF in one place, controlling their statuses, and identifying documents that require sending.
 
 If a document has status **Validation Error**, it means that the document did not pass validation.\
 The error description can be viewed by opening the document on the **KSeF – Invoice** page, in the **Error Details** section.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image43.png" style="width:4.30416in;height:2.88826in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image43.png" style="width:4.30416in;height:2.88826in" />
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image44.png" style="width:6.26389in;height:2.30486in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image44.png" style="width:6.26389in;height:2.30486in" />
 
 ## KSeF - Invoice List – QR Code II
 
 On the **KSeF – Invoice List** page, an additional action **Generate QR Code II for Work Date** is available. This action allows generating **QR Code II** for all KSeF documents at once, based on the work date.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image45.png" style="width:6.26389in;height:1.39097in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image45.png" style="width:6.26389in;height:1.39097in" />
 
 If an invoice does not have a **KSeF ID** (offline mode), it must be printed manually.\
 Otherwise, the document would be sent without the **QR Code II**.
@@ -1008,7 +1008,7 @@ In the module for receiving and processing documents from KSeF, the system enabl
 
 To be able to download purchase invoices from KSeF, it is necessary to first configure the connection settings on the **KSeF Connection Setup** page. The generated authorization token must be pasted there. In the **Receiving** section, it is required to indicate for which entity invoices will be retrieved. For purchase invoices, **Entity 2 (Podmiot 2)** must be selected.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image46.png" style="width:6.63839in;height:2.92913in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image46.png" style="width:6.63839in;height:2.92913in" />
 
 In the **Initial Sync Days** field, there is an option to specify the number of days from which synchronization should start during the first document download. This makes it possible to define how many days back the system will check and retrieve purchase invoices from KSeF. The **Query Page Size** field specifies how many documents will be retrieved and checked during a single API call. If the field is set to the value **0**, the default number of **100** documents is used.
 
@@ -1016,13 +1016,13 @@ In the **Initial Sync Days** field, there is an option to specify the number of 
 
 To send a request to retrieve invoices from KSeF, go to the **E-Document Services** page and select the **Receive** action.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image47.png" style="width:6.26389in;height:1.17638in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image47.png" style="width:6.26389in;height:1.17638in" />
 
 Alternatively, you can use the **E-Documents** menu and select **Receive KSeF Documents**. In both cases, the system starts the communication process with KSeF and retrieves available documents according to the connection settings and the synchronization range defined in the configuration.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image48.png" style="width:6.02114in;height:1.15978in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image48.png" style="width:6.02114in;height:1.15978in" />
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image49.png" style="width:6.26389in;height:1.51319in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image49.png" style="width:6.26389in;height:1.51319in" />
 
 Downloaded documents will be visible on the **Inbound E-Documents** page.
 
@@ -1032,23 +1032,23 @@ After opening a selected document from the **Inbound E-Documents** page, the use
 
 This view displays the key **header data** taken from the invoice, such as: document number, KSeF number, issue date, due date, net amount, gross amount, currency code, vendor number and name, as well as the **received purchase document line data**.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image50.png" style="width:6.52482in;height:2.88336in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image50.png" style="width:6.52482in;height:2.88336in" />
 
 To process the entire invoice - both the header and the lines - it is necessary to create mappings that link line descriptions to the appropriate general ledger accounts using the **Map Text to Account** function.
 
- <img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image51.png" style="width:6.26389in;height:2.51597in" />
+ <img src="images/Localization-for-Poland_User-Manual-KSeF/image51.png" style="width:6.26389in;height:2.51597in" />
 
 If any of the invoice lines are not mapped correctly, an error will appear during document processing and will be displayed in the **Error Messages** section.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image52.png" style="width:6.59485in;height:2.88652in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image52.png" style="width:6.59485in;height:2.88652in" />
 
 Next, select **Reprocess Document**. If no errors are detected during reprocessing, the system will create a purchase invoice based on the processed e‑document.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image53.png" style="width:6.26389in;height:1.50764in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image53.png" style="width:6.26389in;height:1.50764in" />
 
 After successful processing, the document status is automatically changed to **“Processed”**. In the document view, a link to the created purchase invoice will also appear, containing the completed header information and invoice lines.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image54.png" style="width:5.63194in;height:2.52778in" /> 
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image54.png" style="width:5.63194in;height:2.52778in" /> 
 
 ### Corrections with “Before/After” Lines – Behavior during KSeF import
 
@@ -1084,13 +1084,13 @@ the solution includes a mechanism that omits document lines when creating the pu
 
 To create only the purchase invoice header without the lines, select **Create Purchase Document** on the e‑document. After selecting this option, you will be able to choose the document type - **Purchase Invoice**, **Purchase Order** or **Purchase Credit Memo**. Once the selection is confirmed, the system will create a document with the header information filled in. Invoice lines are skipped and are not processed within this mode.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image55.png" style="width:6.31632in;height:1.25532in" /> 
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image55.png" style="width:6.31632in;height:1.25532in" /> 
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image56.png" style="width:3.77797in;height:1.75009in" /> 
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image56.png" style="width:3.77797in;height:1.75009in" /> 
 
 ## Automatic Creation of Purchase Document Headers
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image57.png" style="width:5.26923in;height:2.85819in" />For large volumes of incoming documents, manually creating a header for each document becomes inefficient. To automate this process, specify how imported documents should be processed on the **KSeF Setup** page:
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image57.png" style="width:5.26923in;height:2.85819in" />For large volumes of incoming documents, manually creating a header for each document becomes inefficient. To automate this process, specify how imported documents should be processed on the **KSeF Setup** page:
 
 The following options are available in the **Processing Inbound Documents** field:
 
@@ -1102,7 +1102,7 @@ The following options are available in the **Processing Inbound Documents** fiel
 
 If purchase documents should be created automatically only for selected vendors, choose the By Vendor Setup option. Then, on the relevant vendor card, set the **Create KSeF Headers** field to **Automatic**:
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image58.png" style="width:3.52083in;height:4.625in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image58.png" style="width:3.52083in;height:4.625in" />
 
 To automatically create purchase document headers for documents that have already been imported, select the Create Purchase Documents action on the E-Documents page.
 
@@ -1110,7 +1110,7 @@ To automatically create purchase document headers for documents that have alread
 
 On the e-document, the **Preview** option is available, which allows visualization of the KSeF invoice based on data from the structured XML invoice. Additionally, the user can display the XML file itself.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image59.png" style="width:6.20171in;height:1.96538in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image59.png" style="width:6.20171in;height:1.96538in" />
 
  
 
@@ -1118,13 +1118,13 @@ On the e-document, the **Preview** option is available, which allows visualizati
 
 PDF preview of KSeF document is also available from the Purchase Invoice page. To open it, go to the Prepare section and select **KSeF Preview**.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image60.png" style="width:6.26389in;height:1.67778in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image60.png" style="width:6.26389in;height:1.67778in" />
 
 ## KSeF Preview on Posted Purchase Invoice
 
 On the Posted Purchase Invoice page, go to the Invoice section and select KSeF Preview.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image61.png" style="width:6.26389in;height:1.33125in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image61.png" style="width:6.26389in;height:1.33125in" />
 
 ## Monitoring KSeF Documents Imports
 
@@ -1136,13 +1136,13 @@ To improve the reliability of the KSeF document synchronization process and faci
 
 To enable KSeF import logging, go to the KSeF Setup page and set the Log E-Document Import field to True. After this option is enabled, the system records detailed information about the process of importing documents from KSeF.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image62.png" style="width:6.26389in;height:2.63889in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image62.png" style="width:6.26389in;height:2.63889in" />
 
 ### KSeF Receive Log
 
 A new page, KSeF Receive Log, has been added to allow users to review and analyze document synchronization activities.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image63.png" style="width:6.26389in;height:2.76944in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image63.png" style="width:6.26389in;height:2.76944in" />
 
 The following information is recorded for each operation:
 
@@ -1228,7 +1228,7 @@ The field: **Partner 3 Internal ID** on the Customer Card is used to store the c
 
 The value from this field is transferred to the NSEI into the **\<Podmiot3\>** section.
 
-<img src="images/locali-poland-user-guide-ksef-eng-v1-5-2026-10-05/image64.png" style="width:6.26389in;height:2.8125in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image64.png" style="width:6.26389in;height:2.8125in" />
 
 ## Incorrect Active Sessions
 

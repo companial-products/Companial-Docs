@@ -62,7 +62,7 @@
 **Localization for Poland**
 
 <figure>
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image1.png" style="width:2.25in;height:0.57686in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image1.png" style="width:2.25in;height:0.57686in" />
 <figcaption><p>Microsoft Dynamics 365 Business Central</p></figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ The document *Localization for Poland for Microsoft Dynamics 365 Business Centra
 
 System contains permission sets which allow use modifications created for Polish functionality. Each set is responsible for a certain range of functionalities.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image2.png" style="width:6.29444in;height:1.63762in" alt="Obraz zawierający tekst, Czcionka, numer, linia Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image2.png" style="width:6.29444in;height:1.63762in" alt="Obraz zawierający tekst, Czcionka, numer, linia Opis wygenerowany automatycznie" />
 
 - **EXW ALL** – contains all permissions needed for Polish functionality (like permission SUPER)
 
@@ -116,7 +116,7 @@ Additional functionality in Microsoft Dynamics 365 Business Central is the abili
 
 If this box is checked and there are already detailed entries of exchange rate differences, it is not possible to uncheck this box at a later time.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image3.png" style="width:6.29444in;height:2.91667in" alt="Obraz zawierający tekst, zrzut ekranu, numer, linia Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image3.png" style="width:6.29444in;height:2.91667in" alt="Obraz zawierający tekst, zrzut ekranu, numer, linia Opis wygenerowany automatycznie" />
 
 ## Calculation, posting and reporting of exchange rate differences
 
@@ -124,7 +124,7 @@ If this box is checked and there are already detailed entries of exchange rate d
 
 For calculating, posting and generating an exchange rate differences report, there is a function located on the ***Bank Accounts*** page. To access them, select one specific one from the list of existing bank accounts and go to its page. Then use ***Exchange differences report.***
 
-- <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image4.png" style="width:5.32283in;height:1.42913in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />***Exchange differences report –*** calculating exchange rate differences, creating report and posting calculated entries. The differences are calculated based on the FIFO valuation method. The system takes into account the rate at which the funds entering the bank account were credited (input rate) and the rate at which the outgoing transfer of funds was credited (output rate).
+- <img src="images/Localization-for-Poland_User-Manual-Main/image4.png" style="width:5.32283in;height:1.42913in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />***Exchange differences report –*** calculating exchange rate differences, creating report and posting calculated entries. The differences are calculated based on the FIFO valuation method. The system takes into account the rate at which the funds entering the bank account were credited (input rate) and the rate at which the outgoing transfer of funds was credited (output rate).
 
 Before running the report, which is automatically filtered to the selected bank account, optionally indicate the date range for which the report is to be generated.
 
@@ -136,15 +136,15 @@ Before running the report, which is automatically filtered to the selected bank 
 
 **When a user runs the report again for the same period**, specifying a start date, the report will display **only entries within the selected date range**. This happens because unposted differences prior to that period have already been posted during the first run of the report.
 
-**If a user runs the report again without specifying a start date**, the report will display **only transactions from a single day** - **the end date**.<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image5.png" style="width:4.0937in;height:4.78125in" />
+**If a user runs the report again without specifying a start date**, the report will display **only transactions from a single day** - **the end date**.<img src="images/Localization-for-Poland_User-Manual-Main/image5.png" style="width:4.0937in;height:4.78125in" />
 
 Prior to posting the document, the correctness of the generated entries can be verified using the **Preview Posting** function.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image6.png" style="width:6.02167in;height:2.67746in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image6.png" style="width:6.02167in;height:2.67746in" />
 
 Only after posting the exchange rate differences, do they appear in the report and in the ***Exchange Rate Entries*** table:
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image7.png" style="width:6.30208in;height:1.11458in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image7.png" style="width:6.30208in;height:1.11458in" />
 
 The exchange rate difference report can be generated in the system, can be printed, or exported to a file.
 
@@ -180,7 +180,7 @@ This functionality enables calculation of exchange rate differences, created on 
 
 - ***Preview Posting*** - this box is checked when the user wants to test how the system will calculate exchange rate differences in a preview mode; when switched on, a simulation of the difference calculation report is generated, but no postings to accounts are created.
 
-  <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image8.png" style="width:3.12427in;height:6.05263in" />
+  <img src="images/Localization-for-Poland_User-Manual-Main/image8.png" style="width:3.12427in;height:6.05263in" />
 
 The report is run by selecting OK.
 
@@ -194,7 +194,7 @@ In addition to postings in the chart of accounts, the system also creates entrie
 
 → Exchange rate adjustment registers
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image9.png" style="width:6.74583in;height:0.98194in" alt="Obraz zawierający tekst, Czcionka, linia, zrzut ekranu Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image9.png" style="width:6.74583in;height:0.98194in" alt="Obraz zawierający tekst, Czcionka, linia, zrzut ekranu Opis wygenerowany automatycznie" />
 
 ## Balance sheet G/L
 
@@ -204,15 +204,15 @@ All three reports work on similar principles - they provide a summary of turnove
 
 → G/L Acc. Net Change & Balance
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image10.png" style="width:3.29167in;height:4.02847in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image10.png" style="width:3.29167in;height:4.02847in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, numer Opis wygenerowany automatycznie" />
 
 → G/L turnover and balance
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image11.png" style="width:6.26042in;height:3.57708in" alt="A screenshot of a spreadsheet Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image11.png" style="width:6.26042in;height:3.57708in" alt="A screenshot of a spreadsheet Description automatically generated" />
 
 In addition, it is possible to list the turnover and balances in a layout based on the chart of accounts. Start and end dates must be filled in. This functionality also allows you to upload the data to Excel. The list and totals can be filtered by various criteria. Since the window shows accounts in a statement of turnover and balances layout, the columns do not have summaries.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image12.png" style="width:4.74554in;height:3.27917in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image12.png" style="width:4.74554in;height:3.27917in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Opis wygenerowany automatycznie" />
 
 ## Balance Sheet/Profit and Loss Account
 
@@ -220,7 +220,7 @@ The primary tool for financial reporting is the functionality of the Balance She
 
 In order to configure the financial reports, you need to correctly specify the account type. This is possible by navigating to the ***Chart*** ***of Accounts*** and then to the record of the corresponding account. Here you should choose whether the account is to be included in the ***Balance Sheet*** or in the ***Income Statement***.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image13.png" style="width:6.40833in;height:2.9837in" alt="Obraz zawierający tekst, zrzut ekranu, numer, linia Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image13.png" style="width:6.40833in;height:2.9837in" alt="Obraz zawierający tekst, zrzut ekranu, numer, linia Opis wygenerowany automatycznie" />
 
 → Financial Reports
 
@@ -228,11 +228,11 @@ The added modifications allow you to configure the balance sheet based on credit
 
 To set up the balance sheet correctly, go to ***Financial Reports*** and select ***Balance Sheet***.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image14.png" style="width:6.40378in;height:1.53333in" alt="Obraz zawierający tekst, numer, linia, zrzut ekranu Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image14.png" style="width:6.40378in;height:1.53333in" alt="Obraz zawierający tekst, numer, linia, zrzut ekranu Opis wygenerowany automatycznie" />
 
 → Definitions → Row definition
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image15.png" style="width:6.65833in;height:2.47397in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image15.png" style="width:6.65833in;height:2.47397in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
 
 Information will then be displayed on how the values in each line are calculated. You should select:
 
@@ -252,25 +252,25 @@ Information will then be displayed on how the values in each line are calculated
 
     - **Vendor Credit** - determines the balance of transactions with vendors, displays the amount of credit
 
-      <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image16.png" style="width:6.2375in;height:1.83289in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
+      <img src="images/Localization-for-Poland_User-Manual-Main/image16.png" style="width:6.2375in;height:1.83289in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
 
 You can also modify the definition of columns.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image17.png" style="width:6.29444in;height:2.49006in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image17.png" style="width:6.29444in;height:2.49006in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
 
 You can configure what you want the column to be called - Column ***Header, Column Type, Ledger Entry Type*** or ***Amount Type***.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image18.png" style="width:6.29444in;height:1.16042in" alt="Obraz zawierający tekst, linia, zrzut ekranu, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image18.png" style="width:6.29444in;height:1.16042in" alt="Obraz zawierający tekst, linia, zrzut ekranu, Czcionka Opis wygenerowany automatycznie" />
 
 Once the ***Balance Sheet** has been* properly configured, you can return to the ***Financial Report*** page and ***Recalculate** the* totals on the report, which will show you the result of the configured Balance Sheet.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image19.png" style="width:6.29444in;height:2.96294in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image19.png" style="width:6.29444in;height:2.96294in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
 → Income Statement
 
 The second mandatory statement is the **Income Statement**. For it, the general ledger accounts defined by the type of **Income Statement** will be taken. The process of creating it is similar to the Balance Sheet. After going to Financial Reports, select **RZIS,** and in the next steps define the definition of columns and rows. After recalculation, the calculated Income Statement will appear.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image20.png" style="width:6.35in;height:1.84237in" alt="Obraz zawierający tekst, numer, linia, zrzut ekranu Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image20.png" style="width:6.35in;height:1.84237in" alt="Obraz zawierający tekst, numer, linia, zrzut ekranu Opis wygenerowany automatycznie" />
 
 ## Item Journal Batches
 
@@ -278,11 +278,11 @@ This functionality assigns the set ***General Business Posting Group*** to the s
 
 → Item Journal Batches
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image21.png" style="width:6.29444in;height:1.41301in" alt="Obraz zawierający tekst, Czcionka, linia, zrzut ekranu Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image21.png" style="width:6.29444in;height:1.41301in" alt="Obraz zawierający tekst, Czcionka, linia, zrzut ekranu Opis wygenerowany automatycznie" />
 
 → Item Journals
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image22.png" style="width:6.23056in;height:2.54497in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image22.png" style="width:6.23056in;height:2.54497in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Opis wygenerowany automatycznie" />
 
 # VAT Maintenance and reporting
 
@@ -300,7 +300,7 @@ Before starting postings that result in the creation of entries shown in VAT reg
 
 - ***Allow VAT Date To*** indicate the end date of the defined period in which VAT posting will be allowed. Attempting to post VAT outside of this period will result in an error during posting and will prevent the posting from being done.
 
-  <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image23.png" style="width:6.29444in;height:1.96964in" alt="Obraz zawierający tekst, zrzut ekranu, linia, paragon Opis wygenerowany automatycznie" />
+  <img src="images/Localization-for-Poland_User-Manual-Main/image23.png" style="width:6.29444in;height:1.96964in" alt="Obraz zawierający tekst, zrzut ekranu, linia, paragon Opis wygenerowany automatycznie" />
 
 The ***VAT Date*** field has been added both for newly entered sales invoices and purchase invoices, as well as in the journals where entries are created in G/L, customer and vendor entries are created.
 
@@ -310,7 +310,7 @@ Once the transaction is posted, the ***VAT Date*** is transferred to ***VAT Entr
 
 In addition to the ***VAT Date*** in the ***VAT Entries,*** fields have been added for the vendor: name, address, postal code, city. All this data is visible in the ***Sales and Purchase VAT Entries generated*** later.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image24.png" style="width:6.29444in;height:1.00798in" alt="Obraz zawierający tekst, Czcionka, linia, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image24.png" style="width:6.29444in;height:1.00798in" alt="Obraz zawierający tekst, Czcionka, linia, numer Opis wygenerowany automatycznie" />
 
 → VAT Register of Sales and Purchases
 
@@ -318,15 +318,15 @@ Selecting a date range generates a ***Sales/Purchase VAT Register*** for the spe
 
 This is a basic report for calculating the amount of output and input VAT for the selected accounting period. To adapt the report to the requirements of the Polish Value Added Tax Act, it is possible to filter the VAT entry by VAT settlement date (***VAT Date***) in the report. In addition, in the ***Filter: VAT Entries tab***, we can set the report's printout according to a number of other filters, including Country Code, VAT Business Posting Group or VAT Product Posting Group. On the ***General*** tab, we choose whether we want to generate the report for sales, purchases, or both types of transactions. The report displays the VAT base amount, the VAT amount, the unrealized VAT amount, and detailed information about the customer or vendor for each document.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image25.png" style="width:3.94444in;height:4.17292in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image25.png" style="width:3.94444in;height:4.17292in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image26.png" style="width:6.29444in;height:3.46121in" alt="A close-up of a sales register Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image26.png" style="width:6.29444in;height:3.46121in" alt="A close-up of a sales register Description automatically generated" />
 
 ## Service/goods delivery date
 
 Following the provisions of Polish law, the date of delivery of goods or performance of a service must be included on invoices documenting sales. In Microsoft Dynamics 365 Business Central, this date has been added to purchase and sales documents and document printouts and it is transferred to the ***VAT Register***. In addition, it is possible to indicate settings that will retrieve the exchange rate of currency measurements or automatically set the VAT date relative to the date of execution of the service/supply of goods.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image27.png" style="width:6.29444in;height:1.47361in" alt="Obraz zawierający tekst, Czcionka, numer, linia Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image27.png" style="width:6.29444in;height:1.47361in" alt="Obraz zawierający tekst, Czcionka, numer, linia Opis wygenerowany automatycznie" />
 
 ## Detailed VAT Entries
 
@@ -354,7 +354,7 @@ In the *Detailed **VAT Entries***, you should pay attention to two important pie
 
 - ***VAT entry number*** - specifies the number of the associated entry for this particular VAT entry.
 
-  <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image28.png" style="width:6.29444in;height:0.70069in" />
+  <img src="images/Localization-for-Poland_User-Manual-Main/image28.png" style="width:6.29444in;height:0.70069in" />
 
 ## VAT Reverse Charge Mechanism
 
@@ -376,7 +376,7 @@ In order to correctly post purchase invoices for intra-Community acquisition of 
 
 - With the above settings, the system will create two VAT lines when posting a document/journal line: due and input. Both VAT entries will also be visible in the ***VAT Register***.
 
-  <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image29.png" style="width:6.28302in;height:1.96944in" alt="Obraz zawierający tekst, linia, numer, Wykres Opis wygenerowany automatycznie" />
+  <img src="images/Localization-for-Poland_User-Manual-Main/image29.png" style="width:6.28302in;height:1.96944in" alt="Obraz zawierający tekst, linia, numer, Wykres Opis wygenerowany automatycznie" />
 
 ## Posting
 
@@ -408,7 +408,7 @@ In order to be able to post only VAT on the basis of the purchase document, it i
 
 You need to define the correct combination of VAT Business Posting Group and VAT Product Posting Group, for which **Full VAT** will be selected in the ***VAT Calculation Type*** field, while the G/L account selected in the **Purchase VAT Account** field will be assigned a VAT Product Posting Group the same as the one used in the setup just defined.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image30.png" style="width:4.64567in;height:4.66535in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka" /><img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image31.png" style="width:4.66667in;height:3.91667in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image30.png" style="width:4.64567in;height:4.66535in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka" /><img src="images/Localization-for-Poland_User-Manual-Main/image31.png" style="width:4.66667in;height:3.91667in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka" />
 
 ## Posting
 
@@ -474,7 +474,7 @@ The system has VAT posting control, as well - if the **Postponed VAT** functiona
 
 → VAT Setup
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image32.png" style="width:6.50139in;height:2.33319in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image32.png" style="width:6.50139in;height:2.33319in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
 
 To allow users to use postponed VAT on the ***VAT Setup*** page ***Use Postponed VAT*** option must be enabled.
 
@@ -486,13 +486,13 @@ The accounts dedicated to posting the postponed VAT amounts are configured in th
 
 - Purch. VAT Postponed Account
 
-  <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image33.png" style="width:6.29444in;height:2.333in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
+  <img src="images/Localization-for-Poland_User-Manual-Main/image33.png" style="width:6.29444in;height:2.333in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
 
 ## Posting
 
 In sales and purchase documents, a Postponed VAT field is available in the header. If it is checked, the VAT entry is recorded as postponed and is posted on the account selected in VAT Posting Setup.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image34.png" style="width:6.29444in;height:2.10139in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image34.png" style="width:6.29444in;height:2.10139in" alt="A screenshot of a computer Description automatically generated" />
 
 ## VAT Postpone Worksheet 
 
@@ -500,13 +500,13 @@ If you want to postpone VAT on invoice which is already posted use VAT Postpone 
 
 → VAT Postpone Worksheet* *
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image35.png" style="width:6.29444in;height:3.08472in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image35.png" style="width:6.29444in;height:3.08472in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
 Find invoice line which you want to postpone, then **Activate Postponed VAT** and set new **Posting date**. Now field **Postponed** on this line is checked, amount from **VAT Base** is in column **Postponed VAT Base** and amount from **VAT Amount** is already in **Postponed VAT Amount**. 
 
 In order to finish the VAT postponement process you need to use function **Realize Postponed VAT** and then enter the **New VAT Reporting Date**. After this **VAT Date** will be updated.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image36.png" style="width:6.29444in;height:1.91597in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image36.png" style="width:6.29444in;height:1.91597in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
 
 ## Posting VAT from the G/L journals (Incidental Contractors).
 
@@ -516,13 +516,13 @@ A list of Incidental Contractors has been created, which can be supplemented wit
 
 *→* Incidental Contractors
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image37.png" style="width:6.29444in;height:2.41111in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image37.png" style="width:6.29444in;height:2.41111in" alt="A screenshot of a computer Description automatically generated" />
 
 In the created line of the **General Journal**, to indicate the information to the VAT register, you need to specify the value in the column **Gen. posting type**.
 
 In the VAT Amount column, expand the value (via the assist button) and fill in additional information to go into the VAT register. If the user wants to indicate an incidental contractor from the list, use the drop-down list in the TIN field or enter the contractor's data manually.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image38.png" style="width:6.29444in;height:3.06597in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image38.png" style="width:6.29444in;height:3.06597in" alt="A screenshot of a computer Description automatically generated" />
 
 # Accounts Receivable and Accounts Payable
 
@@ -534,11 +534,11 @@ There is an option in the system to force users to complete the ***Document Rece
 
 Enable the Mandatory Document Receipt Date option.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image39.png" style="width:6.29444in;height:1.78558in" alt="Obraz zawierający tekst, linia, Czcionka, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image39.png" style="width:6.29444in;height:1.78558in" alt="Obraz zawierający tekst, linia, Czcionka, numer Opis wygenerowany automatycznie" />
 
 When this is done, users on every purchase order and invoice need to complete field ***Document Receipt Date***.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image40.png" style="width:6.29444in;height:2.01077in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image40.png" style="width:6.29444in;height:2.01077in" alt="A screenshot of a computer Description automatically generated" />
 
 ## Sales Credit Memos
 
@@ -572,15 +572,15 @@ An additional functionality is ***Correction reasons***, which is an editable li
 
 - In the Adjustment ***Details*** section, check the ***Correction*** box, select the ***Type*, *Number*** (*of the* original invoice to which the adjustment applies), and ***Code,*** which indicates the reason for the correction.
 
-  <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image41.png" style="width:6.29444in;height:3.27431in" alt="A screenshot of a computer Description automatically generated" />
+  <img src="images/Localization-for-Poland_User-Manual-Main/image41.png" style="width:6.29444in;height:3.27431in" alt="A screenshot of a computer Description automatically generated" />
 
 - In the next step, you need to go to the ***Get Before/After Lines*** functionality, located on the ribbon under the ***Home*** tab***.***
 
-  <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image42.png" style="width:5.85417in;height:0.93786in" alt="A screenshot of a computer Description automatically generated" />
+  <img src="images/Localization-for-Poland_User-Manual-Main/image42.png" style="width:5.85417in;height:0.93786in" alt="A screenshot of a computer Description automatically generated" />
 
 - Then, in the newly opened dialog box, select the "**Get Correction Lines**" function.
 
-  <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image43.png" style="width:5.32153in;height:3.65625in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+  <img src="images/Localization-for-Poland_User-Manual-Main/image43.png" style="width:5.32153in;height:3.65625in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
 - In the ***Sales*** Correction ***Lines*** window, two lines appear for each line from the original sales invoice: the ***Before*** line, which remains unchanged, and the ***After*** line, on which the data should be adjusted according to the reason for adjustment entered earlier (for example, the quantity or amount). Approve the changes made with the ***OK*** button.
 
@@ -598,15 +598,15 @@ An additional functionality is ***Correction reasons***, which is an editable li
 
 ### Item Correction
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image44.png" style="width:6.30278in;height:2.86597in" />When creating a sales credit memo for items, correction lines are not generated if neither the quantity nor the amount is changed. If the user wants such lines to appear on the document, the “**Create all Item Lines in Credit Memo”** option must be enabled on the **Sales & Receivables Setup** page.
+<img src="images/Localization-for-Poland_User-Manual-Main/image44.png" style="width:6.30278in;height:2.86597in" />When creating a sales credit memo for items, correction lines are not generated if neither the quantity nor the amount is changed. If the user wants such lines to appear on the document, the “**Create all Item Lines in Credit Memo”** option must be enabled on the **Sales & Receivables Setup** page.
 
 Sales correction lines (no change in quantity or unit price):
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image45.png" style="width:6.29528in;height:1.76772in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image45.png" style="width:6.29528in;height:1.76772in" />
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image46.png" style="width:6.29528in;height:1.37008in" />Document lines with the option disabled:
+<img src="images/Localization-for-Poland_User-Manual-Main/image46.png" style="width:6.29528in;height:1.37008in" />Document lines with the option disabled:
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image47.png" style="width:6.29528in;height:1.14567in" />Document lines with the option enabled:
+<img src="images/Localization-for-Poland_User-Manual-Main/image47.png" style="width:6.29528in;height:1.14567in" />Document lines with the option enabled:
 
 ### Customer Data Correction
 
@@ -622,7 +622,7 @@ To create a customer data correction, update the customer data on the **Customer
 
 On the document, select a correction reason with the type **Customer Data (KSeF2K):**
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image48.png" style="width:6.29528in;height:2.33465in" /><img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image49.png" style="width:6.29528in;height:0.97244in" />This correction reason is required to ensure the proper generation of the Podmiot2K section within the KSeF structure.
+<img src="images/Localization-for-Poland_User-Manual-Main/image48.png" style="width:6.29528in;height:2.33465in" /><img src="images/Localization-for-Poland_User-Manual-Main/image49.png" style="width:6.29528in;height:0.97244in" />This correction reason is required to ensure the proper generation of the Podmiot2K section within the KSeF structure.
 
 After posting the credit memo and generating the KSeF document, the system will create an XML structure containing the Podmiot2K section, presenting the customer data in accordance with KSeF requirements.
 
@@ -654,9 +654,9 @@ To create a descriptive correction of an invoice, create a corrective sales invo
 
 - from the Sales Credit Memos list page.
 
-  <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image50.png" style="width:6.29528in;height:0.92126in" />Next, on the credit memo, select a correction reason of the type: **Additional Document Data (non-KSeF 2K).**
+  <img src="images/Localization-for-Poland_User-Manual-Main/image50.png" style="width:6.29528in;height:0.92126in" />Next, on the credit memo, select a correction reason of the type: **Additional Document Data (non-KSeF 2K).**
 
-  <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image51.png" style="width:6.29528in;height:2.32677in" />This correction reason is used to introduce changes to the descriptive information of a document other than customer data. Unlike the DANE (Data) correction reason, it does not result in the generation of the Podmiot2K section within the KSeF structure.
+  <img src="images/Localization-for-Poland_User-Manual-Main/image51.png" style="width:6.29528in;height:2.32677in" />This correction reason is used to introduce changes to the descriptive information of a document other than customer data. Unlike the DANE (Data) correction reason, it does not result in the generation of the Podmiot2K section within the KSeF structure.
 
 After posting the credit memo and generating the KSeF document, the system will create an XML structure containing the updated descriptive data of the document in accordance with KSeF requirements.
 
@@ -664,9 +664,9 @@ After posting the credit memo and generating the KSeF document, the system will 
 
 If a post-sale discount is granted to a customer for all shipments made to that customer during a given period, the company may issue a bulk sales credit memo.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image52.png" style="width:6.29306in;height:0.78125in" />To ensure that such a document is presented correctly in the structured electronic format, a dedicated correction reason of the type **Collective Discount** must be specified on the credit memo being created.
+<img src="images/Localization-for-Poland_User-Manual-Main/image52.png" style="width:6.29306in;height:0.78125in" />To ensure that such a document is presented correctly in the structured electronic format, a dedicated correction reason of the type **Collective Discount** must be specified on the credit memo being created.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image53.png" style="width:6.29528in;height:2.95669in" />To ensure correct presentation in the general ledger, the **Sales Discount Credit Memo Account** in the **General Posting Setup** must be specified. This account will be used when the discount applies to inventory items:
+<img src="images/Localization-for-Poland_User-Manual-Main/image53.png" style="width:6.29528in;height:2.95669in" />To ensure correct presentation in the general ledger, the **Sales Discount Credit Memo Account** in the **General Posting Setup** must be specified. This account will be used when the discount applies to inventory items:
 
 On the **Sales Credit Memo**, select the appropriate **Correction Reason** and specify the details of the corrected documents:
 
@@ -676,13 +676,13 @@ On the **Sales Credit Memo**, select the appropriate **Correction Reason** and s
 
 - Corr. Period Description: the value transferred to the KSeF structure
 
-- <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image54.png" style="width:6.29528in;height:1.23622in" />Correction Discount % or Correction Discount Amount
+- <img src="images/Localization-for-Poland_User-Manual-Main/image54.png" style="width:6.29528in;height:1.23622in" />Correction Discount % or Correction Discount Amount
 
-  <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image55.png" style="width:6.29528in;height:1.63386in" />Next, retrieve the Before/After lines for selected period to which the discount should be applied. Do not make any changes to these lines and click OK.
+  <img src="images/Localization-for-Poland_User-Manual-Main/image55.png" style="width:6.29528in;height:1.63386in" />Next, retrieve the Before/After lines for selected period to which the discount should be applied. Do not make any changes to these lines and click OK.
 
-  <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image56.png" style="width:6.29514in;height:1.09444in" />After returning to the Sales Credit Memo, select either **Allocate Correction Discount (%)** or **Allocate Discount Amount**, depending on the type of discount you want to grant
+  <img src="images/Localization-for-Poland_User-Manual-Main/image56.png" style="width:6.29514in;height:1.09444in" />After returning to the Sales Credit Memo, select either **Allocate Correction Discount (%)** or **Allocate Discount Amount**, depending on the type of discount you want to grant
 
-  <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image57.png" style="width:6.29514in;height:1.10625in" />Collective credit memo lines will be generated. For inventory items, the lines will be created using the G/L account specified in the setup:
+  <img src="images/Localization-for-Poland_User-Manual-Main/image57.png" style="width:6.29514in;height:1.10625in" />Collective credit memo lines will be generated. For inventory items, the lines will be created using the G/L account specified in the setup:
 
 ## Sales documents printouts
 
@@ -690,7 +690,7 @@ Printouts related to sales in the system have been visually improved and adapted
 
 To assign new printouts to to respective document types, go to page **Report Selection - Sales** and then select from the list the appropriate report ID numbers for the corresponding document types.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image58.png" style="width:5.96944in;height:2.05069in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image58.png" style="width:5.96944in;height:2.05069in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Opis wygenerowany automatycznie" />
 
 ## Printing G/L Account number on sales documents
 
@@ -698,11 +698,11 @@ To allow users to decide whether the G/L account number should be visible on pri
 
 → **Sales & Receivables Setup**
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image59.png" style="width:6.25984in;height:1.20866in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image59.png" style="width:6.25984in;height:1.20866in" />
 
 When enabled, the G/L account number will be visible in the document line on the printouts of: Pro Forma Invoice, Posted Sales Invoice, Posted Sales Credit Memo, Posted Service Invoice.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image60.png" style="width:5.6375in;height:0.91597in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image60.png" style="width:5.6375in;height:0.91597in" />
 
 ## Customer and Vendor Balance Reconciliation
 
@@ -710,11 +710,11 @@ One of the principles of inventory is to reconcile the balance of receivables fr
 
 *→* Customer Balance Reconciliation
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image61.png" style="width:3.05417in;height:4.1697in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image61.png" style="width:3.05417in;height:4.1697in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
 *→* Vendor Balance Reconciliation
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image62.png" style="width:3.05199in;height:4.12917in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image62.png" style="width:3.05199in;height:4.12917in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka" />
 
 Selecting "Preview" generates a report with all open items posted to the counterparty's account for a given reconciliation date, ready to be sent to the counterparty for balance confirmation.
 
@@ -724,17 +724,17 @@ If documents are issued in different currencies, checking the **Print Amounts in
 
 This functionality enables the use of the Split Payment mechanism on sales documents, in accordance with the provisions of the Polish VAT Act. Its purpose is to ensure compliance with tax obligations under Polish regulations and allow proper marking of transactions subject to mandatory or voluntary application of the Split Payment mechanism.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image63.png" style="width:6.25972in;height:1.09931in" />The mechanism can be activated directly on a **Sales Invoice** by enabling the ***Split Payment Mechanism*** checkbox located in the **Invoice Details** tab.
+<img src="images/Localization-for-Poland_User-Manual-Main/image63.png" style="width:6.25972in;height:1.09931in" />The mechanism can be activated directly on a **Sales Invoice** by enabling the ***Split Payment Mechanism*** checkbox located in the **Invoice Details** tab.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image64.png" style="width:6.16929in;height:1.01181in" alt="A screenshot of a social media account AI-generated content may be incorrect." />Alternatively, it can be assigned to selected **payment methods** by enabling the **Split Payment Mechanism** checkbox available on the **Payment Methods** page.
+<img src="images/Localization-for-Poland_User-Manual-Main/image64.png" style="width:6.16929in;height:1.01181in" alt="A screenshot of a social media account AI-generated content may be incorrect." />Alternatively, it can be assigned to selected **payment methods** by enabling the **Split Payment Mechanism** checkbox available on the **Payment Methods** page.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image65.png" style="width:6.25972in;height:1.37361in" alt="A screenshot of a computer AI-generated content may be incorrect." />Activating the checkbox will automatically enable the SP when the selected payment method is chosen on a sales invoice.
+<img src="images/Localization-for-Poland_User-Manual-Main/image65.png" style="width:6.25972in;height:1.37361in" alt="A screenshot of a computer AI-generated content may be incorrect." />Activating the checkbox will automatically enable the SP when the selected payment method is chosen on a sales invoice.
 
 The checkbox value can also be changed on a **posted sales invoice** - it is visible in the **Invoice Details** tab.
 
 If the Split Payment mechanism is enabled on the sales invoice, this **information will also appear on the printout** of the posted sales invoice in the **Payment Type** field.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image66.png" style="width:5.80289in;height:1.91693in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image66.png" style="width:5.80289in;height:1.91693in" />
 
 The Split Payment mechanism is also available on **sales credit memos** and works in a similar way as on sales invoices.
 
@@ -746,11 +746,11 @@ As part of the Polish localization, the system allows you to enter various PKWiU
 → **PKWiU**\
 Open the **PKWiU** page and fill it with codes and descriptions in accordance with the regulation of the Polish government.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image67.png" style="width:6.16929in;height:1.82283in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image67.png" style="width:6.16929in;height:1.82283in" />
 
 Next, assign the codes to items on their **item cards** in the **PKWiU Code** field.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image68.png" style="width:6.25984in;height:1.34646in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image68.png" style="width:6.25984in;height:1.34646in" />
 
 When creating a **sales document**, the PKWiU code will be retrieved from the item card and displayed in the line in the **PKWiU Code** column. If the code was not entered earlier, it can also be selected directly on the document; however, this will **not** automatically update the item card.
 
@@ -794,7 +794,7 @@ Click the + in the page header to start the completion:
 
 - ***SAFT file suffix*** - contains characters that are appended in the names of generated files
 
-  <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image69.png" style="width:4.47174in;height:3.67954in" alt="A screenshot of a computer Description automatically generated" />
+  <img src="images/Localization-for-Poland_User-Manual-Main/image69.png" style="width:4.47174in;height:3.67954in" alt="A screenshot of a computer Description automatically generated" />
 
 ## Extension of the Text Filter and support for special characters
 
@@ -820,13 +820,13 @@ The current default text filter value applied when the **Text Filter** field is 
 
 In the VAT 7 Statement lines table, there are records grouping declaration values into specific sections. Data in this table should be generated automatically during the installation of the Localization for Poland extension. However, if this does not happen, the default settings should be initialized by selecting the **Create VAT 7 Statement lines** action.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image70.png" style="width:6.29444in;height:1.57153in" alt="Obraz zawierający tekst, zrzut ekranu, linia, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image70.png" style="width:6.29444in;height:1.57153in" alt="Obraz zawierający tekst, zrzut ekranu, linia, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 ### Handling Foreign Customers and VAT Country Codes
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image71.png" style="width:6.29444in;height:2.39306in" />This functionality enables the automatic determination of a customer's country code for electronic reporting structures based on the customer's VAT Registration No. For foreign customers, the system analyzes the VAT number prefix and uses it as the source of the country code applied during the generation of tax-related data.
+<img src="images/Localization-for-Poland_User-Manual-Main/image71.png" style="width:6.29444in;height:2.39306in" />This functionality enables the automatic determination of a customer's country code for electronic reporting structures based on the customer's VAT Registration No. For foreign customers, the system analyzes the VAT number prefix and uses it as the source of the country code applied during the generation of tax-related data.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image72.png" style="width:3.87083in;height:4.02222in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image72.png" style="width:3.87083in;height:4.02222in" />
 
 As a result, the system can correctly identify the customer's tax registration country even when the customer's address country differs from the country in which the VAT number was issued.
 
@@ -842,7 +842,7 @@ As a result, the system can correctly identify the customer's tax registration c
 
 In the Fixed Assets section it is necessary to select the Taxable Depreciation Book and the Accounting Depreciation Book. These settings are required for JPK (SAFT) CIT purposes.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image73.png" style="width:6.29444in;height:2.22727in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image73.png" style="width:6.29444in;height:2.22727in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 ## Examples of VAT dimensions
 
@@ -854,11 +854,11 @@ To see the values of created codes, edit them, delete them or add new ones, you 
 
 Select the line of interest and choose ***Dimension Values*** on the ribbon in the ***Dimension*** option. Dimension values should be completed with VAT codes before the first use, in accordance with the applicable laws. When posting purchase and sales documents, dimensions are transferred to ledger entries and then processed and transferred to VAT entries. The defined codes must appear in the SAFT file.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image74.png" style="width:6.49818in;height:1.68136in" alt="Obraz zawierający tekst, Czcionka, numer, linia Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image74.png" style="width:6.49818in;height:1.68136in" alt="Obraz zawierający tekst, Czcionka, numer, linia Opis wygenerowany automatycznie" />
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image75.png" style="width:5.8375in;height:3.7565in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image75.png" style="width:5.8375in;height:3.7565in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image76.png" style="width:5.83856in;height:2.11875in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image76.png" style="width:5.83856in;height:2.11875in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Opis wygenerowany automatycznie" />
 
 ## Posting groups
 
@@ -866,7 +866,7 @@ For the Polish functionality, an additional field was added to the posting group
 
 → Customer Posting Groups
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image77.png" style="width:5.5834in;height:3.84906in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image77.png" style="width:5.5834in;height:3.84906in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
 Here you can define new customer posting groups and assign VDEK codes to them.
 
@@ -874,29 +874,29 @@ If there is a separate group of customers in the company - related/group custome
 
 Note that when you create a new customer, you must select the customer's posting group in the customer's card on the ***Invoicing*** tab, so that the corresponding VDEK code will pull in all postings on that customer in the future.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image78.png" style="width:6.61458in;height:2.80556in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image78.png" style="width:6.61458in;height:2.80556in" alt="A screenshot of a computer Description automatically generated" />
 
 As with customer posting groups, you can define vendor posting groups and assign VDEK codes to them, which are then downloaded when SAFT files are generated. On the same basis, VDEK codes are assigned for other posting groups:
 
 → Vendor Posting Groups
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image79.png" style="width:5.60972in;height:3.67917in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image79.png" style="width:5.60972in;height:3.67917in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
 → General Product Posting Groups
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image80.png" style="width:6.16612in;height:1.58248in" alt="Obraz zawierający tekst, Czcionka, linia, zrzut ekranu Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image80.png" style="width:6.16612in;height:1.58248in" alt="Obraz zawierający tekst, Czcionka, linia, zrzut ekranu Opis wygenerowany automatycznie" />
 
 → VAT Product Posting Groups
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image81.png" style="width:5.27361in;height:3.31805in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image81.png" style="width:5.27361in;height:3.31805in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
 → General Product Posting Groups
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image82.png" style="width:6.09119in;height:1.5452in" alt="Obraz zawierający tekst, Czcionka, linia, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image82.png" style="width:6.09119in;height:1.5452in" alt="Obraz zawierający tekst, Czcionka, linia, numer Opis wygenerowany automatycznie" />
 
 → VAT Business Posting Groups
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image83.png" style="width:6.06223in;height:2.03774in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image83.png" style="width:6.06223in;height:2.03774in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
 ## VAT Posting Setup
 
@@ -904,7 +904,7 @@ In the VAT posting setup, assign appropriate values for the following fields. To
 
 → VAT Posting Setup
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image84.png" style="width:6.31481in;height:4.12581in" alt="Obraz zawierający tekst, numer, zrzut ekranu, Równolegle Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image84.png" style="width:6.31481in;height:4.12581in" alt="Obraz zawierający tekst, numer, zrzut ekranu, Równolegle Opis wygenerowany automatycznie" />
 
 - ***Sales statement*** - in this field you can assign an item to specific columns of the sales part of the declaration. Example assignment:
 
@@ -936,7 +936,7 @@ When generating a SAFT file, the information in the following columns found in V
 
 For example, if you misidentify a group and book an ordinary purchase that should be in fixed assets, in the ***Purchase Statement*** field on the line for that invoice, change the code assigned in that column to one that is specific to fixed assets.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image85.png" style="width:5.9537in;height:2.02003in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image85.png" style="width:5.9537in;height:2.02003in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
 ## SAFT VAT file generation
 
@@ -944,7 +944,7 @@ SAFT VAT files are generated and sent to the IRS on a monthly and unsolicited ba
 
 → SAFT Setup
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image86.png" style="width:4.89861in;height:1.83403in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image86.png" style="width:4.89861in;height:1.83403in" alt="A screenshot of a computer Description automatically generated" />
 
 To generate a SAFT file you need to:
 
@@ -960,13 +960,13 @@ To generate a SAFT file you need to:
 
         - ***Show statement aggregation*** - a simulation of the entries that will appear in the generated file is created.
 
-          <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image87.png" style="width:3.58403in;height:4.37431in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Opis wygenerowany automatycznie" />
+          <img src="images/Localization-for-Poland_User-Manual-Main/image87.png" style="width:3.58403in;height:4.37431in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Opis wygenerowany automatycznie" />
 
     - Stage 2 - generation of SAFT file
 
         - ***Create SAFT file*** - a SAFT file is generated based on the previously performed code update and simulated report.
 
-          <img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image88.png" style="width:3.10845in;height:3.82292in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, numer Opis wygenerowany automatycznie" />
+          <img src="images/Localization-for-Poland_User-Manual-Main/image88.png" style="width:3.10845in;height:3.82292in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, numer Opis wygenerowany automatycznie" />
 
     - Submission of another declaration for the same month / correction of the declaration
 
@@ -986,9 +986,9 @@ To generate a SAFT file you need to:
 
 <u>Sample SAFT file entries</u>: the generated file contains individual documents with their numbers, marking whether they relate to purchases or sales, dates, contractors' VAT numbers as well as an indication of which column the amounts went into. The last line is the Header, which contains fields from the VAT return.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image89.png" style="width:5.47917in;height:1.96875in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image89.png" style="width:5.47917in;height:1.96875in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Opis wygenerowany automatycznie" />
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image90.png" style="width:5.75347in;height:1.51111in" alt="A screenshot of a computer screen Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image90.png" style="width:5.75347in;height:1.51111in" alt="A screenshot of a computer screen Description automatically generated" />
 
 ## Archiving SAFT Files
 
@@ -1000,7 +1000,7 @@ This provides the ability to reconstruct declarations, verify data and analyze c
 
 When generating a SAFT file, the user can fill in the Archive Description field.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image91.png" style="width:4.28696in;height:5.67672in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image91.png" style="width:4.28696in;height:5.67672in" />
 
 Entering a value in this field causes the data to be saved in the archive.
 
@@ -1106,13 +1106,13 @@ During the report calculation, records are entered into the SAFT Entry table, ba
 
 The declaration document is separated into five sections: Header, Sales, Purchase, Footer, and Statement parameters. Records in the Sales, Purchase, and Footer sections are generated based on VAT declaration settings. The data in the **Statement parameters** section is editable and must be completed before generating the XML file.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image92.png" style="width:6.29444in;height:3.43681in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image92.png" style="width:6.29444in;height:3.43681in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image93.png" style="width:6.29444in;height:2.28542in" alt="Obraz zawierający tekst, Czcionka, linia, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image93.png" style="width:6.29444in;height:2.28542in" alt="Obraz zawierający tekst, Czcionka, linia, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 After editing the declaration, you can export it using the function on the Actions ribbon → Create SAFT file.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image94.png" style="width:6.29444in;height:1.11553in" alt="Obraz zawierający tekst, Czcionka, linia, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image94.png" style="width:6.29444in;height:1.11553in" alt="Obraz zawierający tekst, Czcionka, linia, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 ##  SAFT (JPK) KR_PD and SAFT (JPK) ST_KR Setup
 
@@ -1122,40 +1122,40 @@ As of 1 January 2025, the provisions of the CIT Act came into force, introducing
 
 The table with the account tag dictionary is used to properly categorize G/L accounts for the purposes of JPK (SAFT) CIT. This table is generated automatically during the installation of the Localization for Poland extension. However, if this does not happen, you should run the **Create Account Tag Dictionary** function available on the ribbon.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image95.png" style="width:6.29444in;height:1.78599in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, Ikona komputerowa Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image95.png" style="width:6.29444in;height:1.78599in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, Ikona komputerowa Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 → G/L Account Card
 
 The classification of the G/L Account for JPK (SAFT) CIT purposes should be selected directly in the account card under the **Reporting → SAFT KR_PD** section.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image96.png" style="width:6.29444in;height:3.4375in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image96.png" style="width:6.29444in;height:3.4375in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 → Fixed Asset Card
 
 On the Fixed Asset Card, you can add information about the acquisition and/or retirement of an asset that does not result directly from accounting entries. If a fixed asset is entered through the opening balance, the system does not have information on the actual acquisition date and document. In such a case, it is necessary to complete the required information in the **SAFT** section of the asset card.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image97.png" style="width:6.29444in;height:2.79167in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image97.png" style="width:6.29444in;height:2.79167in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 → FA Depreciation Books
 
 Information about the depreciation method and the write-off frequency of fixed assets must be entered in the fixed assets depreciation book.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image98.png" style="width:6.29444in;height:1.18194in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image98.png" style="width:6.29444in;height:1.18194in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 → FA Classes
 
 Each fixed asset class must be assigned the appropriate SAFT FA Class Code (Symbol klasyfikacji środków trwałych - Classification of Fixed Assets (KŚT)) for JPK (SAFT) CIT purposes.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image99.png" style="width:6.29444in;height:1.17292in" alt="Obraz zawierający tekst, linia, Czcionka, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image99.png" style="width:6.29444in;height:1.17292in" alt="Obraz zawierający tekst, linia, Czcionka, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 → FA Posting Groups
 
 Each fixed asset posting group must be assigned the appropriate SAFT Posting Group Type for JPK (SAFT) CIT purposes.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image100.png" style="width:6.29444in;height:2.13194in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image100.png" style="width:6.29444in;height:2.13194in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 ## SAFT FA files generation
 
 In addition to the SAFT VAT, businesses can generate other SAFT FA files, such as SAFT for ledgers, warehouse, bank or invoices. Then, as before, fill in the dates and select one of the following options. The SAFT file will be generated automatically, without any additional intervention. Such additional files are generated at the request of the Tax Office.
 
-<img src="images/locali-poland-user-guide-main-en-v1-5-2026-10-05/image101.png" style="width:3.025in;height:3.68819in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image101.png" style="width:3.025in;height:3.68819in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Opis wygenerowany automatycznie" />

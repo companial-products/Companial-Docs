@@ -62,7 +62,7 @@
 **Polska Lokalizacja**
 
 <figure>
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image1.png" style="width:2.25in;height:0.57686in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image1.png" style="width:2.25in;height:0.57686in" />
 <figcaption><p>Microsoft Dynamics 365 Business Central</p></figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Dokument "Polska Lokalizacja dla Microsoft Dynamics 365 Business Central" jest p
 
 W celu umożliwienia korzystania z przygotowanych modyfikacji zostały stworzone specjalne zestawy uprawnień. Każdy zestaw pokrywa pewien obszar z zakresu Polskiej funkcjonalności. 
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image2.png" style="width:6.29444in;height:1.68056in" alt="Obraz zawierający tekst, Czcionka, numer, linia Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image2.png" style="width:6.29444in;height:1.68056in" alt="Obraz zawierający tekst, Czcionka, numer, linia Opis wygenerowany automatycznie" />
 
 - **EXW ALL** – zawiera wszystkie uprawnienia potrzebne do korzystania z Polskiej funkcjonalności (jak zestaw SUPER)
 
@@ -112,9 +112,9 @@ Dodatkowa funkcjonalność w Microsoft Dynamics 365 Business Central to możliwo
 
 - ***Księgowanie na podstawie szczegółowych zapisów różnic kursowych -*** jest polem opcjonalnym, które należy ustawić jednorazowo podczas wdrożenia systemu. Zaznaczenie tego pola skutkuje księgowaniem różnic kursowych do tabeli ***Szczegółowych zapisów różnic kursowych***, czyli listy, która w szczegółowy sposób wskazuje naliczone kwoty różnic i informacje z czego one wynikają. Brak zaznaczenia tego pola powoduje, że system księguje różnice kursowe na podstawie standardowej listy ***Zapisów księgi kont bankowych***, co z kolei może skutkować brakiem szczegółowości zapisów i utrudnioną analizą obliczonych różnic.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image3.png" style="width:6.29444in;height:0.80208in" alt="Pole tekstowe" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image3.png" style="width:6.29444in;height:0.80208in" alt="Pole tekstowe" />
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image4.png" style="width:6.29444in;height:3.04861in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image4.png" style="width:6.29444in;height:3.04861in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
 ## Kalkulacja, księgowanie i raportowanie różnic kursowych
 
@@ -124,7 +124,7 @@ Do kalkulacji, księgowania i generowania raportu różnic kursowych służy fun
 
 - ***Raport różnic kursowych –*** podgląd i księgowanie skalkulowanych różnic kursowych. Różnice są obliczane w oparciu o metodę wyceny FIFO. System bierze pod uwagę kurs, po którym zostały zaksięgowane środki wchodzące na rachunek bankowy (kurs wejściowy) oraz kurs, po którym został zaksięgowany przelew wychodzący środków (kurs wyjściowy).
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image5.png" style="width:6.29444in;height:1.47778in" alt="Obraz zawierający tekst, linia, Czcionka, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image5.png" style="width:6.29444in;height:1.47778in" alt="Obraz zawierający tekst, linia, Czcionka, numer Opis wygenerowany automatycznie" />
 
 **Przed uruchomieniem raportu, który automatycznie jest** zafiltrowany do wybranego konta bankowego, należy **wskazać daty** dla których ma zostać wygenerowany raport.  
 
@@ -137,15 +137,15 @@ Do kalkulacji, księgowania i generowania raportu różnic kursowych służy fun
 **Gdy użytkownik uruchomi raport ponownie dla tego samego okresu**, wskazując datę początkową, raport pokaże **tylko zapisy mieszczące się w wybranym zakresie dat**.\
 Dzieje się tak, ponieważ niezaksięgowane korekty sprzed tego okresu zostały już zaksięgowane podczas pierwszego uruchomienia raportu.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image6.png" style="width:4.25839in;height:4.97917in" />**Jeśli użytkownik uruchomi raport ponownie bez wskazania daty początkowej**, raport pokaże **tylko transakcje z jednego dnia**, czyli z **daty końcowej**.
+<img src="images/Localization-for-Poland_User-Manual-Main/image6.png" style="width:4.25839in;height:4.97917in" />**Jeśli użytkownik uruchomi raport ponownie bez wskazania daty początkowej**, raport pokaże **tylko transakcje z jednego dnia**, czyli z **daty końcowej**.
 
 Przed zaksięgowaniem dokumentu istnieje możliwość zweryfikowania poprawności wygenerowanych zapisów za pomocą funkcji **Podgląd księgowania**.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image7.png" style="width:6.10502in;height:2.61495in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image7.png" style="width:6.10502in;height:2.61495in" />
 
 Po zaksięgowaniu różnic kursowych pojawiają się one w raporcie oraz w tabeli **Zapisy kursów wymiany**.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image8.png" style="width:6.26042in;height:1.17708in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image8.png" style="width:6.26042in;height:1.17708in" />
 
 Raport różnic kursowych można wygenerować w systemie, wydrukować go lub wyeksportować do pliku. 
 
@@ -181,7 +181,7 @@ Funkcjonalność umożliwia kalkulację różnic kursowych, powstałych na otwar
 
 - ***Podgląd księgowania*** – pole jest zaznaczane wówczas, gdy użytkownik chce w sposób próbny sprawdzić, jak system naliczy różnice kursowe; po jego zaznaczeniu i uruchomieniu raportu generuje się symulacja zapisów z kalkulacji różnic, nie powstają jednak żadne księgowania na kontach.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image9.png" style="width:4.20833in;height:6.26042in" alt="A screenshot of a computer AI-generated content may be incorrect." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image9.png" style="width:4.20833in;height:6.26042in" alt="A screenshot of a computer AI-generated content may be incorrect." />
 
 Uruchomienie raportu następuje poprzez wybranie ***OK.*** 
 
@@ -193,7 +193,7 @@ Oprócz księgowań na planie kont, system tworzy także zapisy w **Rejestrze ko
 
 → Rejestry korekty kursu wymiany 
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image10.png" style="width:6.29444in;height:1.28194in" alt="Obraz zawierający tekst, Czcionka, numer, linia Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image10.png" style="width:6.29444in;height:1.28194in" alt="Obraz zawierający tekst, Czcionka, numer, linia Opis wygenerowany automatycznie" />
 
 ## Zestawienie obrotów i sald kont Księgi Głównej
 
@@ -203,15 +203,15 @@ Wszystkie trzy raporty działają na podobnych zasadach – stanowią zestawieni
 
 → Zestawienie obrotów i sald K/G
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image11.png" style="width:3.15625in;height:4.37752in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image11.png" style="width:3.15625in;height:4.37752in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Opis wygenerowany automatycznie" />
 
 → Obroty i saldo K/G
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image12.png" style="width:6.29444in;height:2.77153in" alt="A table with numbers and lines Description automatically generated with medium confidence" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image12.png" style="width:6.29444in;height:2.77153in" alt="A table with numbers and lines Description automatically generated with medium confidence" />
 
 Dodatkowo istnieje możliwość zestawienia obrotów i sald w układzie opartym na planie kont. Należy uzupełnić daty początku i końca. Funkcjonalność ta umożliwia również przesłanie danych do Excela. Listę i sumy można filtrować według różnych kryteriów. Ponieważ w oknie tym przedstawione są konta w układzie zestawienia obrotów i sald, kolumny nie mają podsumowań. 
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image13.png" style="width:6.29444in;height:3.19444in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Równolegle Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image13.png" style="width:6.29444in;height:3.19444in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Równolegle Opis wygenerowany automatycznie" />
 
 ## Bilans/Rachunek Zysków i Strat
 
@@ -219,7 +219,7 @@ Podstawowym narzędziem dla sprawozdawczości finansowej jest funkcjonalność B
 
 W celu skonfigurowania raportów finansowych należy poprawnie określić typ konta. Jest to możliwe po przejściu na ***Plan Kont***, a następnie na kartotekę odpowiedniego konta. W tym miejscu należy wybrać, czy konto ma się zawierać w ***Bilansie*** czy w ***Rachunku wyników***. 
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image14.png" style="width:6.29444in;height:2.11319in" alt="Obraz zawierający tekst, linia, numer, Wykres Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image14.png" style="width:6.29444in;height:2.11319in" alt="Obraz zawierający tekst, linia, numer, Wykres Opis wygenerowany automatycznie" />
 
 → Bilans
 
@@ -227,11 +227,11 @@ Dodana modyfikacja pozwala skonfigurować bilans w oparciu o tylko zapisy kredyt
 
 W celu poprawnego skonfigurowania bilansu należy przejść na ***Raporty Finansowe*** i wybrać ***Bilans***.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image15.png" style="width:6.29444in;height:2.19792in" alt="Obraz zawierający tekst, numer, oprogramowanie, linia Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image15.png" style="width:6.29444in;height:2.19792in" alt="Obraz zawierający tekst, numer, oprogramowanie, linia Opis wygenerowany automatycznie" />
 
 → Definicje → Definicje wiersza.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image16.png" style="width:6.29444in;height:1.78125in" alt="Obraz zawierający tekst, linia, Czcionka, zrzut ekranu Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image16.png" style="width:6.29444in;height:1.78125in" alt="Obraz zawierający tekst, linia, Czcionka, zrzut ekranu Opis wygenerowany automatycznie" />
 
 Zostaną wtedy wyświetlone informacje w jaki sposób wyliczane są wartości w poszczególnych wierszach. Należy wybrać: 
 
@@ -251,25 +251,25 @@ Zostaną wtedy wyświetlone informacje w jaki sposób wyliczane są wartości w 
 
 - ***Dostawca kredyt* -** określa saldo transakcji z dostawcami, wyświetla kwotę kredyt** **
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image17.png" style="width:6.29444in;height:1.95972in" alt="Obraz zawierający tekst, linia, numer, zrzut ekranu Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image17.png" style="width:6.29444in;height:1.95972in" alt="Obraz zawierający tekst, linia, numer, zrzut ekranu Opis wygenerowany automatycznie" />
 
 Modyfikować również można definicję kolumn.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image18.png" style="width:6.29444in;height:1.78125in" alt="Obraz zawierający tekst, linia, Czcionka, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image18.png" style="width:6.29444in;height:1.78125in" alt="Obraz zawierający tekst, linia, Czcionka, numer Opis wygenerowany automatycznie" />
 
 Można skonfigurować, jak ma się nazywać kolumna – ***Nagłówek kolumny, Typ kolumny,*** ***Typ zapisu księgi*** czy ***Typ kwoty***.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image19.png" style="width:6.29444in;height:1.56667in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image19.png" style="width:6.29444in;height:1.56667in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
 
 Po prawidłowym skonfigurowaniu ***Bilansu*** można wrócić na stronę ***Raportu finansowego*** i dzięki funkcji ***Oblicz ponownie*** przeliczyć sumy na raporcie, które pokażą użytkownikowi wynik skonfigurowanego bilansu.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image20.png" style="width:6.29444in;height:1.77014in" alt="Obraz zawierający tekst, linia, zrzut ekranu, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image20.png" style="width:6.29444in;height:1.77014in" alt="Obraz zawierający tekst, linia, zrzut ekranu, Czcionka Opis wygenerowany automatycznie" />
 
 → Rachunek zysku i strat
 
 Drugim obligatoryjnym sprawozdaniem jest ***Rachunek zysków i strat***. Do niego brane będą konta księgi głównej określone typem ***Rachunek wyników***. Proces jego tworzenia jest podobny do Bilansu. Po przejściu na Raporty finansowe należy wybrać ***RZIS***, a w kolejnych krokach zdefiniować definicję kolumn oraz wierszy. Po ponownym obliczeniu ukaże się wyliczony ***Rachunek zysków i strat***. 
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image21.png" style="width:6.29444in;height:2.01042in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image21.png" style="width:6.29444in;height:2.01042in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
 
 ## Szablony dzienników zapasów
 
@@ -277,11 +277,11 @@ Funkcjonalność ta przypisuje ustawioną ***Główną grupę księgową*** do w
 
 → Instancje dzienników zapasów
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image22.png" style="width:6.29444in;height:0.61736in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image22.png" style="width:6.29444in;height:0.61736in" />
 
 → Dziennik zapasów
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image23.png" style="width:6.29444in;height:1.35972in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image23.png" style="width:6.29444in;height:1.35972in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
 
 # VAT – obsługa i sprawozdawczość
 
@@ -299,7 +299,7 @@ W zakładce ***Data VAT*** znajdują się pola 
 
 - ***Dozwolona data VAT do*** wskazuje datę końcową zdefiniowanego okresu, w którym dozwolone będzie księgowanie VAT. Próba zaksięgowania VAT poza tym okresem spowoduje pojawienie się błędu podczas księgowania i uniemożliwi zrobienie tego księgowania.*** ***
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image24.png" style="width:6.29444in;height:2.13056in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, linia Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image24.png" style="width:6.29444in;height:2.13056in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, linia Opis wygenerowany automatycznie" />
 
 Pole ***Data VAT*** zostało dodane zarówno dla wprowadzanych nowych faktur sprzedażowych, faktur zakupowych, jak również w dziennikach, gdzie tworzone są zapisy na kontach K/G, kontach nabywców i dostawców.
 
@@ -309,7 +309,7 @@ Po zaksięgowaniu transakcji, ***Data VAT*** jest przenoszona do ***Zapisów VAT
 
 Oprócz ***Daty VAT*** w ***Zapisach VAT*** dodano także pola dotyczące kontrahenta: nazwa, adres, kod pocztowy, miasto. Wszystkie te dane są widoczne w generowanym później ***Rejestrze VAT Sprzedaży i Zakupu***.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image25.png" style="width:6.29444in;height:1.63611in" alt="Obraz zawierający tekst, numer, Czcionka, linia Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image25.png" style="width:6.29444in;height:1.63611in" alt="Obraz zawierający tekst, numer, Czcionka, linia Opis wygenerowany automatycznie" />
 
 → Rejestr VAT Sprzedaży i Zakupu
 
@@ -317,15 +317,15 @@ Wybierając zakres dat generujemy ***Rejestr VAT Sprzedaży i Zakupu*** dla zada
 
 Jest to podstawowy raport do kalkulacji kwoty podatku VAT należnego i naliczonego za wybrany okres rozliczeniowy. Aby dostosować raport do wymagań polskiej Ustawy o podatku od towarów i usług w raporcie możliwe jest filtrowanie rejestru VAT według daty rozliczenia VAT (***Data VAT***). Ponadto, w zakładce ***Filtr: Zapis VAT*** możemy ustawiać wydruk raportu według wielu innych filtrów, m.in. kod kraju, gosp. grupa księgowa VAT czy też gł. tow. grupa księgowa VAT. W zakładce ***Ogólne*** wybieramy czy chcemy wygenerować raport dla sprzedaży, zakupu, czy też obu rodzajów transakcji. W raporcie wyświetlana jest kwota podstawy VAT, kwota VAT, kwota VAT niezrealizowanego oraz szczegółowe informacje o nabywcy lub dostawcy dla każdego dokumentu.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image26.png" style="width:4.25in;height:4.30694in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image26.png" style="width:4.25in;height:4.30694in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Opis wygenerowany automatycznie" />
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image27.png" style="width:6.29444in;height:4.19931in" alt="A screenshot of a document Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image27.png" style="width:6.29444in;height:4.19931in" alt="A screenshot of a document Description automatically generated" />
 
 ## Data wykonania usługi/dostawy towaru 
 
 Stosując się do przepisów polskiego prawa na fakturach dokumentujących sprzedaż należy umieszczać datę dokonania dostawy towarów lub wykonania usługi. W systemie Microsoft Dynamics 365 Business Central data ta została dodana do kartotek dokumentów zakupu oraz sprzedaży oraz do wydruków dokumentów, a także jest przenoszona do **Rejestru VAT**. Dodatkowo istnieje możliwość wskazania ustawień, które będą pobierały kurs wymiary waluty bądź automatycznie ustawiały datę VAT względem daty wykonania usługi/dostawy towaru.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image28.png" style="width:6.29444in;height:1.67292in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image28.png" style="width:6.29444in;height:1.67292in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
 ## Szczegółowe zapisy VAT
 
@@ -353,7 +353,7 @@ W ***Szczegółowych Zapisach VAT*** należy zwrócić uwagę przede wszystkim n
 
 - ***Nr zapisu VAT –*** określa numer zapisu powiązanego dla tego konkretnego zapisu VAT.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image29.png" style="width:6.29444in;height:2.01319in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image29.png" style="width:6.29444in;height:2.01319in" alt="A screenshot of a computer Description automatically generated" />
 
 ## Mechanizm Odwrotnego Obciążenia VAT
 
@@ -375,7 +375,7 @@ Aby możliwe było poprawne zaksięgowanie faktur zakupu dotyczących wewnątrzw
 
 - Dzięki powyższym ustawieniom system podczas księgowania dokumentu/wiersza dziennika utworzy dwa wiersze VAT: należny i naliczony. Oba zapisy VAT widoczne będą także w** Rejestrze VAT**.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image30.png" style="width:6.29444in;height:2.34782in" alt="Obraz zawierający tekst, numer, linia, zrzut ekranu Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image30.png" style="width:6.29444in;height:2.34782in" alt="Obraz zawierający tekst, numer, linia, zrzut ekranu Opis wygenerowany automatycznie" />
 
 ## Księgowanie
 
@@ -407,9 +407,9 @@ Aby możliwe było księgowanie wyłącznie podatku VAT na podstawie dokumentu z
 
 Należy zdefiniować właściwą kombinację Gospodarczej grupy księgowej VAT i Gł. towarowej grupy księgowej VAT, dla której w polu ***Typ kalkulacji VAT*** będzie wybrana opcja **Pełny VAT**, natomiast konto K/G wybrane w polu ***Konto naliczonego VAT*** będzie miało przypisaną Gł. towarową grupę księgową VAT taką samą jak ta, która użyta została w definiowanych właśnie ustawieniach. 
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image31.png" style="width:6.29444in;height:2.83125in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Równolegle Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image31.png" style="width:6.29444in;height:2.83125in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Równolegle Opis wygenerowany automatycznie" />
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image32.png" style="width:6.29444in;height:2.84306in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Równolegle Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image32.png" style="width:6.29444in;height:2.84306in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Równolegle Opis wygenerowany automatycznie" />
 
 ## Księgowanie
 
@@ -475,7 +475,7 @@ System ponadto posiada kontrolę księgowania VAT – jeśli aktywowana jest fun
 
 → Ustawienia VAT
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image33.png" style="width:6.29444in;height:1.9125in" alt="Obraz zawierający tekst, linia, Czcionka, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image33.png" style="width:6.29444in;height:1.9125in" alt="Obraz zawierający tekst, linia, Czcionka, numer Opis wygenerowany automatycznie" />
 
 Aby umożliwić użytkownikom korzystanie z tej modyfikacji na **Ustawieniach VAT** należy włączyć opcję **Korzystaj z przełożonego VAT**.
 
@@ -487,13 +487,13 @@ Należy również skonfigurować dedykowane konta do przełożonego VATu w karto
 
 - Konto przełożonego naliczonego VAT
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image34.png" style="width:6.29444in;height:2.16597in" alt="Obraz zawierający tekst, zrzut ekranu, linia, diagram Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image34.png" style="width:6.29444in;height:2.16597in" alt="Obraz zawierający tekst, zrzut ekranu, linia, diagram Opis wygenerowany automatycznie" />
 
 ## Księgowanie
 
 Zarówno w dokumentach sprzedaży jak i zakupu pole **Przełożony VAT** jest widoczne w nagłówku. Jeśli zostanie zaznaczone VAT będzie traktowany jako przełożony i księgowany na kontach uzupełnionych w ustawieniach księgowych VAT. 
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image35.png" style="width:6.29444in;height:2.38333in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image35.png" style="width:6.29444in;height:2.38333in" alt="A screenshot of a computer Description automatically generated" />
 
 ## Arkusz przełożonego VAT
 
@@ -501,23 +501,23 @@ W sytuacji, gdy już faktura jest zaksięgowana i użytkownik chce przełożyć 
 
 → Arkusz przełożonego VAT
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image36.png" style="width:6.29444in;height:1.94444in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image36.png" style="width:6.29444in;height:1.94444in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
 
 Wybierz wiersz faktury, którego VAT ma zostać przełożony i użyj funkcji ***Aktywuj przełożony VAT***, a następnie wybierz ***Datę księgowania***. Znacznik ***Przełożony VAT*** zaznaczy się w wybranym wierszu, wartość z ***Podstawy VAT*** przejdzie do ***Podstawy przełożonego VAT***, a wartość z ***Kwoty VAT*** przesunie się do ***Kwoty przełożonego VAT.***
 
 Dodatkowo, dzięki polom **Dok. z przeł. VAT otwarty** oraz **Data rozl. dok. z przeł. VAT** użytkownik widzi czy i kiedy dany dokument został w całości opłacony.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image37.png" style="width:6.25984in;height:2.74016in" />Przed opłaceniem:
+<img src="images/Localization-for-Poland_User-Manual-Main/image37.png" style="width:6.25984in;height:2.74016in" />Przed opłaceniem:
 
 Po opłaceniu:
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image38.png" style="width:6.25984in;height:2.75984in" alt="A screenshot of a computer AI-generated content may be incorrect." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image38.png" style="width:6.25984in;height:2.75984in" alt="A screenshot of a computer AI-generated content may be incorrect." />
 
 **Data rozl. dok. z przeł. VAT** to data zaksięgowania płatności.
 
 W celu zakończenia procesu przełożonego VAT należy skorzystać z funkcji ***Realizuj przełożony VAT***, a następnie wprowadzić ***Nową datę raportowania VAT***. Po potwierdzeniu operacji ***Data VAT*** na zapisach się zaktualizuje.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image39.png" style="width:6.29444in;height:1.69097in" alt="Obraz zawierający tekst, linia, zrzut ekranu, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image39.png" style="width:6.29444in;height:1.69097in" alt="Obraz zawierający tekst, linia, zrzut ekranu, numer Opis wygenerowany automatycznie" />
 
 ## Księgowanie VAT z poziomu dzienników K/G (Kontrahenci Incydentalni)
 
@@ -527,13 +527,13 @@ Utworzona została lista Kontrahentów incydentalnych, którą można uzupełni�
 
 *→* Kontrahenci incydentalni
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image40.png" style="width:6.29267in;height:0.64563in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image40.png" style="width:6.29267in;height:0.64563in" />
 
 W stworzonym wierszu ***Dziennika głównego***, aby wskazać informacje do rejestru VAT należy określić wartość w kolumnie ***Główny typ księgowania***. 
 
 W kolumnie Kwota VAT należy rozwinąć wartość (poprzez przycisk asysty) i uzupełnić dodatkowe informacje, które mają trafić do rejestru VAT. Jeśli użytkownik chce wskazać kontrahenta incydentalnego z listy, należy użyć listy rozwijanej w polu NIP lub wpisać dane kontrahenta manualnie. 
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image41.png" style="width:6.29444in;height:2.16319in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image41.png" style="width:6.29444in;height:2.16319in" alt="A screenshot of a computer Description automatically generated" />
 
 ## Ulga za złe długi 
 
@@ -545,7 +545,7 @@ Konfiguracja funkcjonalności polega na przygotowaniu odpowiednich Tow. grup ksi
 
 Na stronie Ustawienia księgowe VAT dodane zostały dwa znaczniki związane z ulgą za złe długi: **Pokaż nr dokumentu zewn. sprzedaży** oraz **Złe długi**. Należy je aktywować przy kombinacjach gosp. grupy księgowej VAT i tow. grupy księgowej VAT związanych z ulgą za złe długi i zmniejszeniem bądź zwiększeniem podatku VAT należnego.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image42.png" style="width:6.25984in;height:0.90551in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image42.png" style="width:6.25984in;height:0.90551in" />
 
 # Należności i zobowiązania
 
@@ -557,11 +557,11 @@ W ustawieniach VAT została dodana funkcja, która wymusza na użytkownikach wyp
 
 Należy włączyć opcję Obowiązkowa data wpływu dokumentu.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image43.png" style="width:6.26389in;height:2.12021in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image43.png" style="width:6.26389in;height:2.12021in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
 
 Gdy ta opcja jest włączona system nie pozwoli zaksięgować dokumentu zakupu bez uzupełnionej ***Daty wpływu dokumentu***.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image44.png" style="width:6.26389in;height:2.11815in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image44.png" style="width:6.26389in;height:2.11815in" alt="A screenshot of a computer Description automatically generated" />
 
 ## Faktury korygujące sprzedaży
 
@@ -595,15 +595,15 @@ Dodatkową funkcjonalnością są ***Przyczyny korekty***, czyli lista edytowaln
 
 - W części ***Szczegóły korekty*** należy zaznaczyć pole ***Korekta***, wybrać ***Typ, Numer*** (faktury pierwotnej, do której odnosi się korekta), a także ***Kod,*** który wskazuje na przyczynę korekty.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image45.png" style="width:6.29444in;height:3.08611in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image45.png" style="width:6.29444in;height:3.08611in" alt="A screenshot of a computer Description automatically generated" />
 
 - W kolejnym kroku należy przejść do funkcjonalności ***Pobierz wiersze Przed/Po***, znajdującej się na wstążce w zakładce ***Strona główna***.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image46.png" style="width:6.29444in;height:0.90625in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image46.png" style="width:6.29444in;height:0.90625in" alt="A screenshot of a computer Description automatically generated" />
 
 - Następnie w nowo otwartym oknie dialogowym należy wybrać funkcję „***Pobierz wiersze korekty***”.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image47.png" style="width:6.23923in;height:3.08382in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image47.png" style="width:6.23923in;height:3.08382in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Opis wygenerowany automatycznie" />
 
 - W oknie ***Wiersze korekty sprzedaży*** pojawiają się po dwa wierze do każdego wiersza z pierwotnej faktury sprzedaży: wiersz ***Przed***, który pozostaje bez zmian, oraz wiersz ***Po***, na którym należy odpowiednio skorygować dane, zgodnie wprowadzoną wcześniej przyczyną korekty (na przykład ilość czy kwota). Wprowadzone zmiany zatwierdzamy przyciskiem ***OK***.
 
@@ -621,13 +621,13 @@ Dodatkową funkcjonalnością są ***Przyczyny korekty***, czyli lista edytowaln
 
 ### Korekta części
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image48.png" style="width:6.25984in;height:1.90551in" />W przypadku korekty sprzedaży części, jeżeli zmianie nie ulega ilość ani wartość, wiersze korekty nie generują się. Jeżeli użytkownik chce, aby takie wiersze pojawiły się na dokumencie, należy na stronie **Ustawienia sprzedaży i należności** włączyć znacznik „**Zawsze twórz wiersze korekty**”.
+<img src="images/Localization-for-Poland_User-Manual-Main/image48.png" style="width:6.25984in;height:1.90551in" />W przypadku korekty sprzedaży części, jeżeli zmianie nie ulega ilość ani wartość, wiersze korekty nie generują się. Jeżeli użytkownik chce, aby takie wiersze pojawiły się na dokumencie, należy na stronie **Ustawienia sprzedaży i należności** włączyć znacznik „**Zawsze twórz wiersze korekty**”.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image49.png" style="width:6.25984in;height:1.61417in" />Wiersze korekty sprzedaży (zmianie nie uległa ani ilość, ani cena jednostkowa):
+<img src="images/Localization-for-Poland_User-Manual-Main/image49.png" style="width:6.25984in;height:1.61417in" />Wiersze korekty sprzedaży (zmianie nie uległa ani ilość, ani cena jednostkowa):
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image50.png" style="width:6.25984in;height:1.33465in" />Wiersze dokumentu bez włączonego znacznika:
+<img src="images/Localization-for-Poland_User-Manual-Main/image50.png" style="width:6.25984in;height:1.33465in" />Wiersze dokumentu bez włączonego znacznika:
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image51.png" style="width:6.25984in;height:1.39764in" />Wiersze dokumentu z włączonym znacznikiem:
+<img src="images/Localization-for-Poland_User-Manual-Main/image51.png" style="width:6.25984in;height:1.39764in" />Wiersze dokumentu z włączonym znacznikiem:
 
 ### Korekta danych nabywcy
 
@@ -641,11 +641,11 @@ Aby wykonać korektę danych nabywcy, zaktualizuj dane na kartotece klienta i ut
 
 - lub na stronie listy → Faktury korygujące sprzedaży
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image52.png" style="width:6.26319in;height:0.90903in" />Na dokumencie wybierz przyczynę korekty o typie: **DANE**.
+<img src="images/Localization-for-Poland_User-Manual-Main/image52.png" style="width:6.26319in;height:0.90903in" />Na dokumencie wybierz przyczynę korekty o typie: **DANE**.
 
 Przyczyna ta jest wymagana do prawidłowego wygenerowania sekcji **Podmiot2K** w strukturze KSeF.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image53.png" style="width:6.25972in;height:2.70833in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image53.png" style="width:6.25972in;height:2.70833in" />
 
 Po zaksięgowaniu i wygenerowaniu dokumentu KSeF, system utworzy strukturę XML zawierającą sekcję Podmiot2K, prezentującą dane nabywcy zgodnie z wymaganiami KSeF.
 
@@ -679,17 +679,17 @@ Aby wykonać korektę danych opisowych faktury, należy utworzyć fakturę koryg
 
 Następnie na dokumencie wybrać przyczynę korekty o typie: **Dodatkowe dane dokumentu (nie KSeF 2K).**
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image54.png" style="width:6.26378in;height:0.83858in" />Przyczyna korekty tego typu służy do wprowadzania zmian danych opisowych dokumentu innych niż dane nabywcy. W przeciwieństwie do przyczyny korekty typu DANE, nie powoduje ona wygenerowania sekcji Podmiot2K w strukturze KSeF.
+<img src="images/Localization-for-Poland_User-Manual-Main/image54.png" style="width:6.26378in;height:0.83858in" />Przyczyna korekty tego typu służy do wprowadzania zmian danych opisowych dokumentu innych niż dane nabywcy. W przeciwieństwie do przyczyny korekty typu DANE, nie powoduje ona wygenerowania sekcji Podmiot2K w strukturze KSeF.
 
-![](images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image58.png) Po zaksięgowaniu i wygenerowaniu dokumentu KSeF, system utworzy strukturę XML zawierającą zaktualizowane dane opisowe dokumentu zgodnie z wymaganiami KSeF.
+![](images/Localization-for-Poland_User-Manual-Main/image58.png) Po zaksięgowaniu i wygenerowaniu dokumentu KSeF, system utworzy strukturę XML zawierającą zaktualizowane dane opisowe dokumentu zgodnie z wymaganiami KSeF.
 
 ### Zbiorcze korekty sprzedaży z tytułu rabatów
 
 Jeżeli rabat potransakcyjny jest udzielany nabywcy do wszystkich dostaw dokonanych na jego rzecz w danym okresie, firma może wystawić zbiorczą fakturę korygującą.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image56.png" style="width:6.26378in;height:0.89764in" />Aby taki dokument został poprawnie zaprezentowany w formie ustrukturyzowanej, na tworzonej korekcie należy wskazać dedykowaną przyczynę korekty o typie **Rabat zbiorczy:**
+<img src="images/Localization-for-Poland_User-Manual-Main/image56.png" style="width:6.26378in;height:0.89764in" />Aby taki dokument został poprawnie zaprezentowany w formie ustrukturyzowanej, na tworzonej korekcie należy wskazać dedykowaną przyczynę korekty o typie **Rabat zbiorczy:**
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image57.png" style="width:6.26378in;height:2.85039in" />\
+<img src="images/Localization-for-Poland_User-Manual-Main/image57.png" style="width:6.26378in;height:2.85039in" />\
 W celu poprawnej prezentacji w księdze głównej, w Głównych Ustawieniach księgowania należy wskazać **[Konto faktury korygującej rabatu](https://docker.nmierp.pl/PLF27/?company=Polska%20Firma&dc=0&signInRedirected=1&startTraceId=414bae9564a34e0888809f030a2230fc&tid=undefined&runinframe=1)** - będzie ono używane w przypadku rabatu dla zapasów:
 
 Na fakturze korygującej sprzedaży należy wybrać właściwą przyczynę korekty, a także wskazać informacje o dokumentach korygowanych:
@@ -702,23 +702,23 @@ Na fakturze korygującej sprzedaży należy wybrać właściwą przyczynę korek
 
 - Rabat % korekty lub Rabat kwotowy korekty
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image59.png" style="width:6.26319in;height:1.22778in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image59.png" style="width:6.26319in;height:1.22778in" />
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image60.png" style="width:6.26378in;height:1.66142in" />Następnie należy pobrać wiersze Przed/Po dla okresu faktur, do których chce się naliczyć rabat, nie wprowadzać w nich modyfikacji i wybrać OK:
+<img src="images/Localization-for-Poland_User-Manual-Main/image60.png" style="width:6.26378in;height:1.66142in" />Następnie należy pobrać wiersze Przed/Po dla okresu faktur, do których chce się naliczyć rabat, nie wprowadzać w nich modyfikacji i wybrać OK:
 
-![](images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image64.png)Po powrocie na korektę wybrać **Alokuj % rabatu korekty** lub **Alokuj kwotę rabatu korekty** w zależności od tego, jaki rabat chce się udzielić:
+![](images/Localization-for-Poland_User-Manual-Main/image64.png)Po powrocie na korektę wybrać **Alokuj % rabatu korekty** lub **Alokuj kwotę rabatu korekty** w zależności od tego, jaki rabat chce się udzielić:
 
 Wygenerowane zostaną zbiorcze wiersze faktury korygującej- dla pozycji z zapasami pod numerem konta K/G wskazanego w ustawieniach:
 
 Wygenerowane zostaną zbiorcze wiersze faktury korygującej - dla pozycji z zapasami pod numerem konta K/G wskazanego w ustawieniach:
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image62.png" style="width:6.26378in;height:1.14173in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image62.png" style="width:6.26378in;height:1.14173in" />
 
 ## Wydruki dokumentów sprzedaży
 
 Wydruki związane ze sprzedażą w systemie zostały poprawione wizualnie oraz dostosowane do wymagań polskiego prawa. Są to: Potwierdzenie zamówienia sprzedaży, Zamówienie sprzedaży, Faktura proforma sprzedaży, Faktura sprzedaży, Faktura serwisu, Faktura korygująca sprzedaży, Potwierdzenie wydania sprzedaży, Przyjęcie zwrotu sprzedaży.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image63.png" style="width:6.29528in;height:2.03937in" alt="Obraz zawierający tekst, Czcionka, linia, numer Opis wygenerowany automatycznie" />Aby przypisać nowe wydruki do poszczególnych typów dokumentów należy przejść do strony **Wybór raportów – sprzedaż**, a następnie wybrać z listy odpowiednie numery ID raportów do odpowiednich typów dokumentów.
+<img src="images/Localization-for-Poland_User-Manual-Main/image63.png" style="width:6.29528in;height:2.03937in" alt="Obraz zawierający tekst, Czcionka, linia, numer Opis wygenerowany automatycznie" />Aby przypisać nowe wydruki do poszczególnych typów dokumentów należy przejść do strony **Wybór raportów – sprzedaż**, a następnie wybrać z listy odpowiednie numery ID raportów do odpowiednich typów dokumentów.
 
 ## Wydruk numeru konta K/G na dokumentach sprzedaży
 
@@ -726,11 +726,11 @@ Aby umożliwić użytkownikom decydowanie czy numer konta K/G ma być widoczny n
 
 → **Ustawienia sprzedaży i należności**
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image65.png" style="width:6.25984in;height:2.85433in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image65.png" style="width:6.25984in;height:2.85433in" />
 
 Jego aktywacja powoduje, że numer konta K/G będzie widoczny w wierszu dokumentu na wydrukach: faktury pro-forma, zaksięgowanej faktury sprzedaży, zaksięgowanej faktury korygującej sprzedaży oraz zaksięgowanej faktury sprzedaży serwisu.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image66.png" style="width:5.6378in;height:1.18898in" alt="A blue and white rectangular object with black text AI-generated content may be incorrect." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image66.png" style="width:5.6378in;height:1.18898in" alt="A blue and white rectangular object with black text AI-generated content may be incorrect." />
 
 ## Uzgodnienie salda nabywcy i Uzgodnienie salda dostawcy
 
@@ -738,11 +738,11 @@ Jedną z zasad inwentaryzacji jest uzgodnienie salda należności od odbiorców 
 
 *→* Uzgodnienie salda nabywcy I Uzgodnienie salda dostawcy
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image67.png" style="width:3.05208in;height:4.18832in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image67.png" style="width:3.05208in;height:4.18832in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
 *→* Uzgodnienie salda dostawcy
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image68.png" style="width:3.08333in;height:4.23472in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image68.png" style="width:3.08333in;height:4.23472in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
 Wybierając „Podgląd” generują nam się raporty z wszystkimi otwartymi pozycjami zaksięgowanymi na koncie kontrahenta na dany dzień uzgodnienia, gotowe do wysłania do kontrahenta w celu potwierdzenia salda.
 
@@ -756,19 +756,19 @@ Jej celem jest zapewnienie zgodności z obowiązkami podatkowymi wynikającymi z
 
 Mechanizm można aktywować bezpośrednio na fakturze sprzedaży włączając znacznik ***Mechanizm podzielonej płatności*** znajdujący się w zakładce **Szczegóły faktury**:
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image69.png" style="width:6.25984in;height:1.75197in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image69.png" style="width:6.25984in;height:1.75197in" />
 
 Alternatywnie, można go przypisać do wybranych metod płatności poprzez włączenie znacznika ***Mechanizm podzielonej płatności*** dostępnego na stronie **Metody płatności**:
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image70.png" style="width:6.25984in;height:0.81102in" alt="A close-up of a postcard AI-generated content may be incorrect." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image70.png" style="width:6.25984in;height:0.81102in" alt="A close-up of a postcard AI-generated content may be incorrect." />
 
 Aktywacja znacznika spowoduje automatyczne włączenie się MPP po wybraniu danej metody płatności na fakturze sprzedaży.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image71.png" style="width:6.25972in;height:1.29653in" />Wartość znacznika można zmienić także na **zaksięgowanej fakturze sprzedaży** - jest on widoczny w zakładce **Szczegóły faktury**.
+<img src="images/Localization-for-Poland_User-Manual-Main/image71.png" style="width:6.25972in;height:1.29653in" />Wartość znacznika można zmienić także na **zaksięgowanej fakturze sprzedaży** - jest on widoczny w zakładce **Szczegóły faktury**.
 
 Jeśli mechanizm podzielonej płatności jest włączony na fakturze sprzedaży, to **informacja o tym będzie również widoczna na wydruku** zaksięgowanej faktury sprzedaży w polu ***Metoda płatności***.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image72.png" style="width:6.28192in;height:1.6847in" alt="A screenshot of a computer AI-generated content may be incorrect." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image72.png" style="width:6.28192in;height:1.6847in" alt="A screenshot of a computer AI-generated content may be incorrect." />
 
 **Mechanizm podzielonej płatności jest dostępny także na** **fakturach korygujących sprzedaży** i działa w analogiczny sposób jak na fakturach sprzedaży. 
 
@@ -782,11 +782,11 @@ W ramach Polskiej Lokalizacji została dodana możliwość wprowadzenia do syste
 
 Należy otworzyć stronę **PKWiU** i uzupełnić ją kodami i opisami zgodnymi z rozporządzeniem Rady Ministrów.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image73.png" style="width:5.79512in;height:1.67859in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image73.png" style="width:5.79512in;height:1.67859in" />
 
 Następnie należy przypisać kody do zapasów na ich kartotekach w polu **Kod PKWiU**.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image74.png" style="width:6.26042in;height:1.31788in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image74.png" style="width:6.26042in;height:1.31788in" />
 
 Tworząc dokument sprzedaży, kod PKWiU pobierze się z kartoteki zapasu i pojawi w kolumnie **Kod PKWiU.** Jeżeli kod nie został uzupełniony wcześniej, można go również wybrać bezpośrednio na dokumencie. Nie spowoduje to jednak automatycznej aktualizacji na kartotece zapasu.
 
@@ -830,7 +830,7 @@ Aby rozpocząć uzupełnianie należy kliknąć + w nagłówku strony: 
 
 - **Rozszerzenie pliku JPK** – zawiera znaki, które są dopisywane w nazwach generowanych plików
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image75.png" style="width:5.72409in;height:4.4625in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image75.png" style="width:5.72409in;height:4.4625in" alt="A screenshot of a computer Description automatically generated" />
 
 ### Rozszerzenie filtra tekstu i obsługa znaków specjalnych
 
@@ -852,15 +852,15 @@ Aktualna domyślna formuła filtra tekstu w przypadku pozostawienia pustego pola
 
 W tabeli z ustawieniami deklaracji VAT znajdują się rekordy grupujące wartości deklaracji w poszczególne sekcje. Tabela ustawień deklaracji VAT powinna zostać wygenerowana automatycznie podczas instalacji rozszerzenia Polska Lokalizacja. Gdyby jednak tak się nie stało, należy zainicjować domyślne ustawienia poprzez wybór opcji **Wygeneruj słownik ustawień deklaracji**.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image76.png" style="width:6.26389in;height:1.45903in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image76.png" style="width:6.26389in;height:1.45903in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
 
 Obsługa kontrahentów zagranicznych i kodów krajów VAT
 
 Funkcjonalność umożliwia automatyczne ustalanie kodu kraju kontrahenta na potrzeby struktur elektronicznych na podstawie numeru identyfikacji podatkowej (VAT Registration No.). W przypadku kontrahentów zagranicznych system analizuje prefiks numeru VAT i wykorzystuje go jako źródło kodu kraju wykorzystywanego podczas generowania danych podatkowych.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image77.png" style="width:6.26389in;height:2.13542in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image77.png" style="width:6.26389in;height:2.13542in" />
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image78.png" style="width:4.56314in;height:4.55272in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image78.png" style="width:4.56314in;height:4.55272in" />
 
 Dzięki temu możliwe jest poprawne rozpoznawanie kraju identyfikacji podatkowej nawet wtedy, gdy kraj adresowy kontrahenta różni się od kraju, w którym został nadany numer VAT.
 
@@ -876,7 +876,7 @@ Dzięki temu możliwe jest poprawne rozpoznawanie kraju identyfikacji podatkowej
 
 W sekcji środków trwałych należy wybrać odpowiednią księgę amortyzacji podatkową i bilansową. Ustawienia te są wymagane na potrzeby JPK CIT.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image79.png" style="width:6.26389in;height:2.16458in" alt="Obraz zawierający tekst, linia, oprogramowanie, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image79.png" style="width:6.26389in;height:2.16458in" alt="Obraz zawierający tekst, linia, oprogramowanie, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 ## Przykłady wymiarów VAT 
 
@@ -888,11 +888,11 @@ Aby zobaczyć wartości utworzonych kodów, edytować je, usuwać lub dodawać n
 
 Należy zaznaczyć interesujący nas wiersz i na wstążce w opcji ***Wymiar*** wybrać ***Wartości wymiaru***. Wartości wymiaru należy przed pierwszym użyciem uzupełnić kodami VAT zgodnie z obowiązującymi przepisami prawa. W czasie księgowań dokumentów zakupu i sprzedaży, wymiary przenoszą się do zapisów ksiąg, a następnie są przetwarzane i przenoszone do zapisów VAT. Zdefiniowane kody muszą pojawić się w pliku JPK.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image80.png" style="width:6.29444in;height:0.75184in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image80.png" style="width:6.29444in;height:0.75184in" />
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image81.png" style="width:6.22295in;height:1.93403in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image81.png" style="width:6.22295in;height:1.93403in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image82.png" style="width:6.23215in;height:1.05061in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image82.png" style="width:6.23215in;height:1.05061in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
 
 ## Grupy księgowe
 
@@ -900,7 +900,7 @@ Na potrzeby polskiej funkcjonalności do grup księgowych zostało dodane dodatk
 
 → Grupy księgowe nabywców
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image83.png" style="width:6.29444in;height:2.15625in" alt="Obraz zawierający tekst, numer, linia, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image83.png" style="width:6.29444in;height:2.15625in" alt="Obraz zawierający tekst, numer, linia, Czcionka Opis wygenerowany automatycznie" />
 
 W tym miejscu można definiować nowe grupy księgowe nabywców i przypisywać im kody VDEK.
 
@@ -908,7 +908,7 @@ Jeśli w przedsiębiorstwie istnieje oddzielna grupa klientów – klienci powi�
 
 Należy pamiętać, że przy tworzeniu nowego nabywcy, w jego kartotece w zakładce **Fakturowanie** należy wybrać grupę księgową nabywcy, dzięki czemu odpowiedni kod VDEK będzie się zaciągał przy wszystkich księgowaniach na tym kliencie w przyszłości.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image84.png" style="width:6.24178in;height:2.89777in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image84.png" style="width:6.24178in;height:2.89777in" alt="A screenshot of a computer Description automatically generated" />
 
 Analogicznie do grup księgowych nabywców można definiować grupy księgowe dostawców i przypisywać im kody VDEK, które następnie będą się pobierały przy generowaniu plików JPK.
 
@@ -916,23 +916,23 @@ Na takiej samej zasadzie kody VDEK przypisywane są dla innych grup księgowych:
 
 → Grupy księgowe nabywców
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image85.png" style="width:6.29444in;height:2.0875in" alt="Obraz zawierający tekst, zrzut ekranu, linia, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image85.png" style="width:6.29444in;height:2.0875in" alt="Obraz zawierający tekst, zrzut ekranu, linia, numer Opis wygenerowany automatycznie" />
 
 → Główne towarowe grupy księgowe
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image86.png" style="width:6.29444in;height:0.68056in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image86.png" style="width:6.29444in;height:0.68056in" />
 
 → Towarowe grupy księgowe VAT
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image87.png" style="width:6.29444in;height:1.95903in" alt="Obraz zawierający tekst, zrzut ekranu, linia, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image87.png" style="width:6.29444in;height:1.95903in" alt="Obraz zawierający tekst, zrzut ekranu, linia, numer Opis wygenerowany automatycznie" />
 
 → Główne gospodarcze grupy księgowe
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image88.png" style="width:6.29444in;height:1.25in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image88.png" style="width:6.29444in;height:1.25in" alt="Obraz zawierający tekst, linia, numer, Czcionka Opis wygenerowany automatycznie" />
 
 → Gospodarcze grupy księgowe VAT
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image89.png" style="width:6.29444in;height:1.07014in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image89.png" style="width:6.29444in;height:1.07014in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Opis wygenerowany automatycznie" />
 
 ## Ustawienia księgowe VAT
 
@@ -940,7 +940,7 @@ W kartotece ustawień księgowych VAT należy przypisać odpowiednie wartości d
 
 → Ustawienia księgowe VAT
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image90.png" style="width:6.29444in;height:3.13542in" alt="Obraz zawierający tekst, numer, Równolegle, zrzut ekranu Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image90.png" style="width:6.29444in;height:3.13542in" alt="Obraz zawierający tekst, numer, Równolegle, zrzut ekranu Opis wygenerowany automatycznie" />
 
 - ***Pole sprzedaży w deklaracji*** – w tym polu można przypisać pozycję do konkretnych kolumn części sprzedażowej deklaracji. Przykładowe przypisanie:
 
@@ -970,7 +970,7 @@ Podczas generowania pliku JPK istotną rolę odgrywają informacje zawarte w p
 
 - ***Pole sprzedaży w deklaracji i Pole zakupu w deklaracji*** – w tych polach można zmienić przypisanie poszczególnych kwot do kolumn na poziomie zapisu VAT. Na przykład w przypadku błędnego określenia grupy i zaksięgowania zakupu zwykłego, który powinien być w środkach trwałych, w polu ***Raport zakupu*** na wierszu dotyczącym tej faktury należy zmienić przypisany w tej kolumnie kod na taki, który jest właściwy dla środków trwałych.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image91.png" style="width:6.29444in;height:2.33681in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image91.png" style="width:6.29444in;height:2.33681in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
 
 ## Generowanie pliku JPK VAT
 
@@ -978,7 +978,7 @@ Pliki JPK VAT generowane są i wysyłane do Urzędu Skarbowego co miesiąc i bez
 
 → Ustawienia JPK
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image92.png" style="width:5.75758in;height:2.05492in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, linia Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image92.png" style="width:5.75758in;height:2.05492in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, linia Opis wygenerowany automatycznie" />
 
 Aby wygenerować plik JPK:
 
@@ -994,13 +994,13 @@ Aby wygenerować plik JPK:
 
         - ***Pokaż zagregowany raport*** – tworzona jest symulacja zapisów, które pojawią się w wygenerowanym pliku.
 
-          <img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image93.png" style="width:3.84018in;height:5.2803in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Opis wygenerowany automatycznie" />
+          <img src="images/Localization-for-Poland_User-Manual-Main/image93.png" style="width:3.84018in;height:5.2803in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Opis wygenerowany automatycznie" />
 
     - etap 2 – generowanie pliku JPK
 
         - ***Utwórz plik JPK*** – generowany jest plik JPK w oparciu o przeprowadzoną wcześniej aktualizację kodów i symulację raportu.
 
-          <img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image94.png" style="width:3.83065in;height:5.25758in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Opis wygenerowany automatycznie" />
+          <img src="images/Localization-for-Poland_User-Manual-Main/image94.png" style="width:3.83065in;height:5.25758in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Opis wygenerowany automatycznie" />
 
     - Złożenie kolejnej deklaracji za ten sam miesiąc / korekty deklaracji
 
@@ -1020,9 +1020,9 @@ Aby wygenerować plik JPK:
 
 <u>Przykładowe zapisy pliku JPK</u>: wygenerowany plik zawiera poszczególne dokumenty wraz z ich numerami, oznaczeniem czy dotyczą zakupu, czy sprzedaży, daty, numery NIP kontrahentów jak również wskazanie do jakiej kolumny trafiły kwoty. Ostatni wiersz jest Nagłówkiem, który zawiera pola z deklaracji VAT. 
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image95.png" style="width:6.29444in;height:1.18125in" alt="A screenshot of a computer Description automatically generated" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image95.png" style="width:6.29444in;height:1.18125in" alt="A screenshot of a computer Description automatically generated" />
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image96.png" style="width:6.29444in;height:2.91458in" alt="Obraz zawierający tekst, zrzut ekranu, numer Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image96.png" style="width:6.29444in;height:2.91458in" alt="Obraz zawierający tekst, zrzut ekranu, numer Opis wygenerowany automatycznie" />
 
 ## Archiwizacja plików JPK
 
@@ -1034,7 +1034,7 @@ Zapewnia to możliwość odtworzenia deklaracji, weryfikacji danych oraz analizo
 
 Podczas generowania pliku JPK użytkownik może uzupełnić pole **Opis archiwum**.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image97.png" style="width:3.57778in;height:4.70417in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image97.png" style="width:3.57778in;height:4.70417in" />
 
 Wprowadzenie wartości w tym polu powoduje zapisanie danych w archiwum.
 
@@ -1138,13 +1138,13 @@ W trakcie obliczania raportu, do tabeli zapisów JPK trafiają rekordy, na podst
 
 Dokument deklaracji został podzielony na 5 sekcji: Nagłówek, Sprzedaż, Zakup, Stopka oraz Parametry deklaracji. Rekordy w sekcji Sprzedaż, Zakup i Stopka generowane są na podstawie ustawień deklaracji VAT. Dane w sekcji **Parametry deklaracji** są edytowalne i należy je uzupełnić przed wygenerowaniem pliku XML.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image98.png" style="width:6.26389in;height:3.42014in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, Ikona komputerowa Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image98.png" style="width:6.26389in;height:3.42014in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, Ikona komputerowa Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image99.png" style="width:6.26389in;height:2.31667in" alt="Obraz zawierający tekst, numer, Czcionka, linia Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image99.png" style="width:6.26389in;height:2.31667in" alt="Obraz zawierający tekst, numer, Czcionka, linia Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 Po dokonaniu edycji deklaracji można ją wyeksportować korzystając z funkcji na wstążce Akcje 🡪 Utwórz plik JPK.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image100.png" style="width:6.26389in;height:1.26667in" alt="Obraz zawierający tekst, Czcionka, zrzut ekranu, linia Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image100.png" style="width:6.26389in;height:1.26667in" alt="Obraz zawierający tekst, Czcionka, zrzut ekranu, linia Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 ## Konfiguracja dla deklaracji JPK_KR_PD oraz JPK_ST_KR
 
@@ -1154,43 +1154,43 @@ Od 1 stycznia 2025 roku weszły w życie przepisy ustawy o CIT, które wprowadza
 
 Tabela ze słownikiem znaczników konta wykorzystywana jest w celu odpowiedniego skategoryzowania kont K/G na potrzeby JPK CIT. Tabela ta generuje się automatycznie podczas instalacji rozszerzenia Polska Lokalizacja. Gdyby jednak tak się nie stało, należy uruchomić funkcję **Wygeneruj słownik znaczników konta**, dostępną na wstążce.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image101.png" style="width:6.26389in;height:1.76763in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, Ikona komputerowa Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image101.png" style="width:6.26389in;height:1.76763in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, Ikona komputerowa Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 → Kartoteka konta K/G
 
 Klasyfikację konta K/G na potrzeby JPK CIT należy wybrać bezpośrednio na kartotece konta w sekcji **Raportowanie 🡪 JPK KR_PD**.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image102.png" style="width:6.26389in;height:3.42083in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image102.png" style="width:6.26389in;height:3.42083in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, numer Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 → Kartoteka środka trwałego
 
 Na kartotece ŚT można uzupełnić informacje o nabyciu i/lub likwidacji środka trwałego, które nie wynikają bezpośrednio z zapisów księgowych. W przypadku wprowadzenia środka trwałego bilansem otwarcia, w systemie nie ma informacji o rzeczywistej dacie i dokumencie nabycia ŚT. W takim przypadku, konieczne jest uzupełnienie wymaganych informacji w sekcji **JPK** na kartotece ŚT.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image103.png" style="width:6.26389in;height:2.84455in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image103.png" style="width:6.26389in;height:2.84455in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 → Księga amortyzacji ŚT
 
 W księdze amortyzacji środka trwałego należy uzupełnić informacje na temat metody i rodzaju amortyzacji środka trwałego.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image104.png" style="width:6.26389in;height:1.13611in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, linia Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image104.png" style="width:6.26389in;height:1.13611in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, linia Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 → Klasy ŚT
 
 Do każdej klasy środka trwałego należy przypisać odpowiedni kod klasy ŚT na potrzeby JPK CIT (Symbol klasyfikacji środków trwałych (KŚT)).
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image105.png" style="width:6.26389in;height:1.20069in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-Main/image105.png" style="width:6.26389in;height:1.20069in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna." />
 
 → Grupy księgowe ŚT
 
 Każdej grupie księgowej ŚT należy przypisać odpowiedni typ grupy księgowej ŚT na potrzeby JPK CIT.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image106.png" style="width:6.26389in;height:2.14444in" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image106.png" style="width:6.26389in;height:2.14444in" />
 
 → Kody źródłowe
 
 Czasami konieczne jest wskazanie przyczyny powstania konkretnego zapisu w systemie, na przykład określenie, czy został on utworzony w wyniku zaksięgowania dziennika głównego, czy też faktury zakupu lub sprzedaży. Kod źródłowy identyfikuje miejsce, w którym zapis został wygenerowany. Zapisy powstają w trakcie księgowania dzienników, faktur oraz realizacji określonych zadań wsadowych. Każdy typ księgowania posiada przypisany kod źródłowy, który automatycznie nadawany jest podczas tworzenia danego zapisu.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image107.png" style="width:6.25972in;height:1.63333in" />Na potrzeby JPK KR PD dodana została możliwość przypisania kodu źródła oraz domyślnego typu i opisu dokumentu JPK do danego kodu źródłowego. Wartości należy wprowadzić na stronie Kody źródłowe:
+<img src="images/Localization-for-Poland_User-Manual-Main/image107.png" style="width:6.25972in;height:1.63333in" />Na potrzeby JPK KR PD dodana została możliwość przypisania kodu źródła oraz domyślnego typu i opisu dokumentu JPK do danego kodu źródłowego. Wartości należy wprowadzić na stronie Kody źródłowe:
 
 Wprowadzone wartości pojawią się w utworzonym pliku JPK KR PD w odpowiednich polach.
 
@@ -1198,4 +1198,4 @@ Wprowadzone wartości pojawią się w utworzonym pliku JPK KR PD w odpowiednich 
 
 Oprócz JPK VAT przedsiębiorcy mogą generować inne pliki JPK, na przykład JPK dla ksiąg rachunkowych, magazynu, banku czy faktur. Wówczas, tak jak poprzednio, należy uzupełnić daty oraz wybrać jedną z poniższych opcji. Plik JPK zostanie wygenerowany automatycznie, bez dodatkowych ingerencji. Takie pliki dodatkowe generowane są na żądanie Urzędu Skarbowego.
 
-<img src="images/locali-poland-user-guide-main-pl-v1-5-2026-10-05/image108.png" style="width:4.27372in;height:4.31007in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />
+<img src="images/Localization-for-Poland_User-Manual-Main/image108.png" style="width:4.27372in;height:4.31007in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Opis wygenerowany automatycznie" />

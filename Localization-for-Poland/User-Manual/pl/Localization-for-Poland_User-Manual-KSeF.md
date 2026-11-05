@@ -64,7 +64,7 @@
 **Polska Lokalizacja**
 
 <figure>
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image1.png" style="width:2.25in;height:0.57686in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image1.png" style="width:2.25in;height:0.57686in" />
 <figcaption><p>Microsoft Dynamics 365 Business Central</p></figcaption>
 </figure>
 
@@ -288,7 +288,7 @@ Dodatkowe uprawnienia (np. w ramach Usług e‑dokumentów) są wymagane do popr
 
 Strona umożliwia wprowadzenie danych identyfikacyjnych firmy oraz ustawień związanych z integracją z Krajowym Systemem e-Faktur (KSeF). Poprawne wypełnienie pól na tej stronie jest warunkiem prawidłowego działania pozostałych procesów: generowania, wysyłki i odbioru faktur w KSeF.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image2.png" style="width:5.01736in;height:2.65347in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image2.png" style="width:5.01736in;height:2.65347in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
 
 ### **Zakładki zawierające dane widoczne w fakturze ustrukturyzowanej**
 
@@ -330,7 +330,7 @@ Zakładka ta może zostać uzupełniona danymi kontaktowymi firmy: adresami e‑
 
 Zakładka ta może zostać uzupełniona informacjami, które firma chce wyświetlać w stopce faktury. Mogą to być standardowe informacje umieszczane w stopce wydruku faktury – np. dane rejestrowe firmy, adres strony internetowej itp. KSeF nie narzuca żadnych szczególnych wymagań w tym zakresie.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image3.png" style="width:5.77639in;height:4.95764in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Równolegle Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image3.png" style="width:5.77639in;height:4.95764in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Równolegle Zawartość wygenerowana przez AI może być niepoprawna." />
 
 ### **Zakładki systemowe KSeF i pola konfiguracyjne**
 
@@ -416,7 +416,7 @@ Funkcjonalność umożliwia import własnej wizualizacji zawartej w pliku XLS:
 
 Aby zaimportować plik, wybierz Akcje → **Użyj własnego pliku XSL wizualizacji**
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image4.png" style="width:6.61458in;height:1.71231in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image4.png" style="width:6.61458in;height:1.71231in" />
 
 ### Dodatkowe informacje w wizualizacji KSeF
 
@@ -442,7 +442,7 @@ Dodatkowo wizualizacja dostępna jest bezpośrednio na dokumencie KSeF (faktury 
 
 Zakładka ta umożliwia zarządzanie użyciem wersji struktur logicznych KSeF zgodnie z wymaganiami Ministerstwa Finansów.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image5.png" style="width:5.47917in;height:3.06153in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image5.png" style="width:5.47917in;height:3.06153in" />
 
 ## Mapowanie stawek VAT KSeF
 
@@ -456,13 +456,13 @@ W polu **Stawka VAT KSeF** należy przypisać stawki VAT do odpowiednich kombina
 
 Poprawne przypisanie stawek VAT jest niezbędne, aby generowane faktury były zgodne z wymaganiami KSeF
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image6.png" style="width:6.26389in;height:3.18542in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Równolegle Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image6.png" style="width:6.26389in;height:3.18542in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Równolegle Zawartość wygenerowana przez AI może być niepoprawna." />
 
 - Można zdefiniować pola Domyślny status KSeF zakupu oraz Domyślny status KSeF sprzedaży dla odpowiednich kombinacji. Wartość z tych pól będzie stosowana dla dokumentów, dla których status nie został określony. Mogą to być np. dokumenty nieistniejące w KSeF. Dla takich dokumentów można wybrać np. „BFK Faktura poza KSeF” lub „DI Inny dokument”. **Jeśli dokument nie będzie miał przypisanego żadnego statusu KSeF oraz nie będzie posiadał numeru KSeF ID, mogą wystąpić błędy podczas tworzenia deklaracji JPK VAT (SAFT).**
 
 - Aby zdefiniować przepis prawny stanowiący podstawę zwolnienia z VAT i wpływający na uzupełnienie pól P_19_A/B/C w KSeF, jego nazwę należy wprowadzić w odpowiedniej kolumnie dla danej kombinacji w **Ustawieniach księgowych VAT**.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image7.png" style="width:6.26389in;height:1.50417in" alt="Obraz zawierający tekst, linia, numer, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image7.png" style="width:6.26389in;height:1.50417in" alt="Obraz zawierający tekst, linia, numer, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
 
 ## KSeF - odwrotne obciążenie
 
@@ -496,7 +496,7 @@ Pole P_18 jest w pełni obsługiwane w strukturze FA(3) KSeF. Polska Lokalizacja
 
 Jeżeli w **Ustawieniach księgowania VAT,** na poziomie kombinacji księgowych VAT, pole „KSeF Reverse Charge” ma wartość *Prawda*, to system respektuje to ustawienie i bezwarunkowo używa go przy generowaniu faktury KSeF.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image8.png" style="width:6.26389in;height:2.18333in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image8.png" style="width:6.26389in;height:2.18333in" />
 
 Oznacza to, że użytkownik może wymusić zachowanie P_18 dla konkretnych scenariuszy.
 
@@ -522,7 +522,7 @@ Strona **Kraje/regiony** musi być poprawnie skonfigurowana, aby funkcjonalnoś�
 
 Dla każdego kraju UE znajdującego się na liście należy ustawić odpowiedni kod w kolumnie **Kod kraju/regionu UE**.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image9.png" style="width:6.26042in;height:2.83125in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image9.png" style="width:6.26042in;height:2.83125in" />
 
 ## Konfiguracja kont bankowych i opis mechanizmu
 
@@ -572,27 +572,27 @@ Do KSeF zawsze przekazywany jest rachunek faktycznie użyty na fakturze, w tym �
 
 Strona **Usługa e-dokumentu** służy m in. do wyboru ustawień eksportu i importu plików do i z KSeF. Po otwarciu strony należy utworzyć nową usługę do celów **KSeF** poprzez dodanie nowego wiersza.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image10.png" style="width:5.11111in;height:1.47917in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, linia Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image10.png" style="width:5.11111in;height:1.47917in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, linia Zawartość wygenerowana przez AI może być niepoprawna." />
 
 W polu **Format dokumentu** należy wskazać KSeF FA(3) oraz wybrać KSeF - Polski system e-faktur w polu **Integracja usługi**.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image11.png" style="width:6.26389in;height:1.65556in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image11.png" style="width:6.26389in;height:1.65556in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
 
 Po wybraniu opcji **Konfiguracja integracji usługi**, możliwy jest wybór środowiska: Testowego, Demo lub Produkcyjnego używając opcji **Środowisko**. Na podstawie wybranego środowiska KSeF automatycznie wybierany jest adres API w pozycji **API Base URL**.
 
 Można też pobrać certyfikaty publiczne za pomocą opcji **Pobierz certyfikaty publiczne**. Nie jest to jednak konieczne na tym etapie, ponieważ jest to jeden z kroków w ramach Kreatora konfiguracji KSeF, co zostało opisane w kolejnych rozdziałach tego podręcznika. Certyfikaty publiczne można pobierać wielokrotnie i są one nadpisywane.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image12.png" style="width:6.26389in;height:3.11667in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, oprogramowanie Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image12.png" style="width:6.26389in;height:3.11667in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, oprogramowanie Zawartość wygenerowana przez AI może być niepoprawna." />
 
 ## Generowanie i konwertowanie certyfikatów KSeF
 
 Aby poprawnie korzystać z funkcjonalności KSeF, które wymagają certyfikatu KSeF, certyfikat musi zostać najpierw wygenerowany w Aplikacji Podatnika KSeF, z nadaniem mu nazwy oraz hasła.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image13.png" style="width:4.59861in;height:3.16111in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image13.png" style="width:4.59861in;height:3.16111in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
 
 Po wygenerowaniu certyfikatu należy go pobrać. Zostaną pobrane dwa pliki - jeden w formacie .crt oraz drugi w formacie .key.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image14.png" style="width:5.5in;height:0.95833in" alt="Obraz zawierający tekst, Czcionka, linia, zrzut ekranu Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image14.png" style="width:5.5in;height:0.95833in" alt="Obraz zawierający tekst, Czcionka, linia, zrzut ekranu Zawartość wygenerowana przez AI może być niepoprawna." />
 
 **\*Poniższe kroki powinny być wykonywane przez administratora IT lub z jego pomocą.**
 
@@ -602,11 +602,11 @@ Po wygenerowaniu certyfikatu należy go pobrać. Zostaną pobrane dwa pliki - je
 
 - Jeśli **OpenSSL** jest już zainstalowany, należy otworzyć narzędzie **Windows PowerShell**.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image15.png" style="width:5.83472in;height:4.67569in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image15.png" style="width:5.83472in;height:4.67569in" alt="Obraz zawierający tekst, zrzut ekranu, oprogramowanie, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
 
 - Po otwarciu narzędzia **Windows PowerShell** użytkownik będzie mógł wprowadzać polecenia.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image16.png" style="width:6.62778in;height:1.26111in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image16.png" style="width:6.62778in;height:1.26111in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
 
 - Aby poprawnie przekonwertować certyfikat, należy wpisać odpowiednie polecenie w narzędziu, a następnie nacisnąć ENTER:
 
@@ -620,61 +620,61 @@ Po wygenerowaniu certyfikatu należy go pobrać. Zostaną pobrane dwa pliki - je
 
 - <u>Należy pamiętać, że podczas wpisywania hasła nie będzie ono widoczne w żadnej formie</u>: ani jako litery, cyfry czy znaki specjalne, ani jako kropki, gwiazdki czy inne symbole, które zwykle pojawiają się w polach wprowadzania hasła.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image17.png" style="width:3.75714in;height:0.59031in" alt="Obraz zawierający tekst, Czcionka, zrzut ekranu, Grafika Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image17.png" style="width:3.75714in;height:0.59031in" alt="Obraz zawierający tekst, Czcionka, zrzut ekranu, Grafika Zawartość wygenerowana przez AI może być niepoprawna." />
 
 - Po wykonaniu powyższych kroków w folderze, w którym użytkownik wcześniej zapisał pliki certyfikatu pobrane z Aplikacji Podatnika KSeF, pojawi się dodatkowy plik w formacie .pem.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image18.png" style="width:4.34745in;height:1.28479in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image18.png" style="width:4.34745in;height:1.28479in" alt="Obraz zawierający tekst, zrzut ekranu, linia, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
 
 - Następnie w Microsoft Business Central należy przejść do strony **Usługi e‑dokumentu**, wybrać usługę utworzoną wcześniej dla KSEF, a następnie wybrać opcję **Konfiguracja integracji usługi**, po czym uruchomić **Kreator konfiguracji**.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image19.png" style="width:4.80833in;height:1.41458in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image19.png" style="width:4.80833in;height:1.41458in" />
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image20.png" style="width:6.26389in;height:2.17639in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image20.png" style="width:6.26389in;height:2.17639in" />
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image21.png" style="width:6.26389in;height:1.36319in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image21.png" style="width:6.26389in;height:1.36319in" />
 
 - W **Kreatorze konfiguracji środowiska KSeF** należy przejść do kroku „Importuj certyfikat podpisujący ECDSA”. W polu Akcja certyfikatu należy wybrać **Importuj nowy certyfikat**, a następnie kliknąć Dalej.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image22.png" style="width:6.23125in;height:3.89861in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image22.png" style="width:6.23125in;height:3.89861in" />
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image23.png" style="width:6.26389in;height:2.24792in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image23.png" style="width:6.26389in;height:2.24792in" />
 
 - W kolejnym kroku należy wybrać **Kliknij tutaj, aby załadować plik certyfikatu** i wskazać plik certyfikatu z rozszerzeniem .crt, a następnie wybrać Dalej.
 
 - W następnym kroku należy użyć opcji **Kliknij tutaj, aby załadować plik klucza prywatnego**, wskazać plik certyfikatu w formacie .pem, a następnie wybrać Dalej.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image24.png" style="width:6.26389in;height:2.15764in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image24.png" style="width:6.26389in;height:2.15764in" />
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image25.png" style="width:4.11667in;height:3.89097in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image25.png" style="width:4.11667in;height:3.89097in" />
 
 - Użytkownik zostanie poinformowany, że certyfikat został pomyślnie zaimportowany.
 
 - Następnie należy pobrać certyfikaty publiczne, klikając \>\> **Pobierz certyfikaty publiczne**. Po wykonaniu tej czynności użytkownik zostanie poinformowany, że certyfikaty publiczne zostały pomyślnie pobrane.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image26.png" style="width:4.11667in;height:3.17569in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image26.png" style="width:4.11667in;height:3.17569in" />
 
 - W ostatnim kroku użytkownik musi potwierdzić zakończenie konfiguracji. Zostanie wyświetlony komunikat informujący, że środowisko KSeF zostało pomyślnie skonfigurowane.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image27.png" style="width:4.81528in;height:1.64653in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image27.png" style="width:4.81528in;height:1.64653in" />
 
 ## Zarządzanie sesjami połączeń z KSeF i UPO
 
 Użycie przycisku **Zarządzanie sesjami** przenosi użytkownika do widoku menedżera sesji, gdzie można zobaczyć wszystkie sesje łączenia oraz ich statusy. System w czasie wysyłki pliku KSeF nawiązuje sesję, w oparciu o te sesję wysyłka pliki, pobiera UPO i zapisuje ją w tym widoku. Widok ten umożliwia sprawdzenie m.in. środowisko sesji, typ sesji, status sesji i kod statusu sesji, ile plików razem zostało wysłanych w ramach tej sesji, ile zostało wysłanych skutecznie, ile nieskutecznie, czy sesja została zakończona.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image28.png" style="width:6.20865in;height:1.27784in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, linia Zawartość wygenerowana przez AI może być niepoprawna." /><img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image29.png" style="width:6.20417in;height:1.54663in" alt="Obraz zawierający tekst, Czcionka, numer, linia Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image28.png" style="width:6.20865in;height:1.27784in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, linia Zawartość wygenerowana przez AI może być niepoprawna." /><img src="images/Localization-for-Poland_User-Manual-KSeF/image29.png" style="width:6.20417in;height:1.54663in" alt="Obraz zawierający tekst, Czcionka, numer, linia Zawartość wygenerowana przez AI może być niepoprawna." />
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image30.png" style="width:4.90303in;height:1.91677in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image30.png" style="width:4.90303in;height:1.91677in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
 
 Aby uzyskać dostęp do podglądu UPO należy w widoku **Zarządzanie sesjami KSeF** zaznaczyć odpowiednią sesję i wybrać opcję **Wyświetl UPO.**
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image31.png" style="width:6.26389in;height:1.57569in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, linia Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image31.png" style="width:6.26389in;height:1.57569in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, linia Zawartość wygenerowana przez AI może być niepoprawna." />
 
 UPO dla wysłanych dokumentów KSeF można też sprawdzić z poziomu konkretnego dokumentu w widoku **KSeF – Faktura** w sekcji **UPO**. Znajdują się tam informacje o tym, czy UPO zostało przeprocesowane, kiedy zostało wysłane oraz zakodowany numer UPO.
 
 W sekcji **Sesja** użytkownik może sprawdzić numer sesji, w której został wysłany dany dokument oraz datę i godzinę wysyłki.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image32.png" style="width:6.26389in;height:4.00903in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image32.png" style="width:6.26389in;height:4.00903in" alt="Obraz zawierający tekst, zrzut ekranu, numer, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
 
 W przypadku gdy sekcje **UPO** i **Sesja** nie są widoczne dla użytkownika, należy dodać je przy pomocy opcji **Personalizuj**.
 
@@ -688,15 +688,15 @@ W przypadku wystąpienia niestandardowych znaków należy upewnić się, że zos
 
 Szczegółowy opis działania filtra znajduje się w rozdziale dotyczącym konfiguracji JPK.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image33.png" style="width:6.26042in;height:3.60417in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image33.png" style="width:6.26042in;height:3.60417in" />
 
 # Generowanie i wysyłka dokumentów do KSeF
 
 Proces generowania i wysyłki dokumentów do Krajowego Systemu e-Faktur (KSeF) rozpoczyna się od wystawienia faktury sprzedaży lub faktury korygującej. Dokument można utworzyć z poziomu stron: **Zaksięgowana faktura sprzedaży**, **Zaksięgowane faktury sprzedaży**, **KSeF - Lista faktur,** **Zamówienie sprzedaży**, **Zamówienie zwrotu sprzedaży** lub **Faktura korygująca sprzedaży**. Faktura wystawiana jest w standardowy sposób, poprzez uzupełnienie wszystkich wymaganych pól i zaksięgowanie dokumentu. Samo zaksięgowanie dokumentu nie powoduje automatycznego przesłania do KSeF, chyba że skonfigurowano automatyczną wysyłkę do KSeF każdorazowo po zaksięgowaniu faktury. Jednak w każdym przypadku księgowanie i wysyłka do KSeF są całkowicie odrębnymi procesami w Business Central.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image34.png" style="width:5.47945in;height:4.23633in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Zawartość wygenerowana przez AI może być niepoprawna." /><img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image35.png" style="width:6.24376in;height:2.18896in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image34.png" style="width:5.47945in;height:4.23633in" alt="Obraz zawierający tekst, zrzut ekranu, numer, oprogramowanie Zawartość wygenerowana przez AI może być niepoprawna." /><img src="images/Localization-for-Poland_User-Manual-KSeF/image35.png" style="width:6.24376in;height:2.18896in" />
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image36.png" style="width:6.24376in;height:2.0743in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image36.png" style="width:6.24376in;height:2.0743in" />
 
 ## Dodatkowe pola na zaksięgowanych fakturach sprzedaży
 
@@ -722,7 +722,7 @@ Po zaksięgowaniu faktury należy utworzyć dokument KSeF. W tym celu z zaksięg
 
 **Powiązane → KSeF**
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image37.png" style="width:4.71352in;height:1.88071in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image37.png" style="width:4.71352in;height:1.88071in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
 
 - **Otwórz dokument KSeF** – jeśli dokument KSeF został już wcześniej utworzony, zostaje on wyświetlony.
 
@@ -732,25 +732,25 @@ Po wybraniu akcji Otwórz/Utwórz dokument KSeF otwiera się strona **KSeF - Fak
 
 Do strony **KSeF – Faktura** można również uzyskać dostęp poprzez stronę **KSeF – Lista faktur**, wybierając dany dokument poprzez kliknięcie na jego numer w kolumnie Nr.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image38.png" style="width:6.26042in;height:2.57292in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image38.png" style="width:6.26042in;height:2.57292in" />
 
 Na stronie **KSeF – Faktura** możliwe jest edytowanie wybranych pól przed wysyłką dokumentu. Zawarte tam dane odpowiadają strukturze pliku XML, który zostanie przekazany do systemu KSeF.
 
 Jeżeli dla zaksięgowanej faktury został wybrany typ wysyłki **Utwórz i edytuj**, dokument KSeF otrzymuje początkowy status **Nowy**. W takiej sytuacji użytkownik ma możliwość zmiany statusu dokumentu na **Gotowy do wysyłki** lub **Anulowany** po wybraniu **Akcje → Status**.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image39.png" style="width:6.26042in;height:1.5625in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image39.png" style="width:6.26042in;height:1.5625in" />
 
 Dodatkowo z poziomu KSeF – Faktura dostępne są operacje związane z plikiem XML, takie jak: utworzenie dokumentu XML, eksport pliku, import pliku zewnętrznego, weryfikacja poprawności struktury oraz podgląd pliku XML.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image40.png" style="width:6.26042in;height:1.47917in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image40.png" style="width:6.26042in;height:1.47917in" />
 
 ## Pominięcie wysyłki do KSeF dla faktury sprzedaży
 
 - Jeżeli w **Ustawieniach KSeF** zaznaczona jest **Dozwolona edycja sposobu przetw. dok.**, wówczas z poziomu faktury sprzedaży lub zaksięgowanej faktury sprzedaży (ale jeszcze nie wysłanej do KSeF) w polu **Przetwarzanie dokumentu KSeF** dostępna jest opcja **Pomiń w KSeF**. Pozwala ona pominąć dany dokument w procesie wysyłki do KSeF.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image41.png" style="width:2.8575in;height:3.30417in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image41.png" style="width:2.8575in;height:3.30417in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image42.png" style="width:5.79583in;height:2.44687in" alt="Obraz zawierający tekst, numer, oprogramowanie, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image42.png" style="width:5.79583in;height:2.44687in" alt="Obraz zawierający tekst, numer, oprogramowanie, Czcionka Zawartość wygenerowana przez AI może być niepoprawna." />
 
 Możliwe jest także zdefiniowanie sposobu przetwarzania faktur na kartotece Nabywcy. Dla wybranego kontrahenta można określić, że jego dokumenty mają być pomijane w KSeF – wówczas opcja Pomiń w KSeF przenosi się automatycznie na wszystkie wystawiane dla niego faktury.
 
@@ -770,7 +770,7 @@ Sekcja **Podmiot2K**:
 
 - jest generowana wyłącznie dla korekt danych nabywcy,
 
-- <img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image43.png" style="width:4.99028in;height:2.15655in" />zapewnia zgodność dokumentu z wymaganiami struktury KSeF FA(3).
+- <img src="images/Localization-for-Poland_User-Manual-KSeF/image43.png" style="width:4.99028in;height:2.15655in" />zapewnia zgodność dokumentu z wymaganiami struktury KSeF FA(3).
 
 ### Wykonanie korekty
 
@@ -820,21 +820,21 @@ Widok listy umożliwia szybkie sprawdzenie statusów dokumentów i zawiera m.in.
 
 - **Nr nabywcy / Nazwa Nabywcy / Adres nabywcy / Kod kraju/regionu nabywcy** – dane kontrahenta.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image44.png" style="width:6.40625in;height:1.5989in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image44.png" style="width:6.40625in;height:1.5989in" />
 
 Dzięki temu widokowi można w jednym miejscu monitorować wszystkie faktury zgłoszone do KSeF, kontrolować ich statusy oraz identyfikować dokumenty wymagające wysyłki.
 
 W przypadku, gdy dokument w widoku **KSeF – Lista faktur** ma status *Błąd walidacji* oznacza to, że dokument nie przeszedł prawidłowo walidacji i wygenerowany został błąd. Opis tego błędu można sprawdzić po kliknięciu na numerze dokumentu w oknie **KSeF – Faktura** w sekcji **Szczegóły błędu.**
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image45.png" style="width:4.20139in;height:2.10417in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image45.png" style="width:4.20139in;height:2.10417in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image46.png" style="width:6.26389in;height:2.61875in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image46.png" style="width:6.26389in;height:2.61875in" alt="Obraz zawierający tekst, zrzut ekranu, Czcionka, numer Zawartość wygenerowana przez AI może być niepoprawna." />
 
 ## KSeF – Lista faktur – QR Code II
 
 Na stronie listy faktur KSeF dodano dodatkową akcję „Generuj Kody QR II dla daty roboczej”. Akcja ta umożliwia jednoczesne wygenerowanie kodów QR II dla wszystkich dokumentów KSeF jednym kliknięciem, na podstawie daty roboczej.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image47.png" style="width:6.26389in;height:1.68264in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image47.png" style="width:6.26389in;height:1.68264in" />
 
 W przypadku gdy faktura nie posiada identyfikatora KSeF (tryb offline), należy ją wydrukować ręcznie, ponieważ w przeciwnym razie dokument zostałby wysłany bez kodu QR II.
 
@@ -1028,7 +1028,7 @@ W module odbierania i przetwarzania dokumentów z KSeF, system umożliwia pobier
 
 Aby móc pobierać faktury zakupu z KSEF, konieczne jest wcześniejsze skonfigurowanie ustawień połączenia na stronie **Ustawienia połączenia KSEF**. Należy tam wkleić wygenerowany token autoryzacyjny. W sekcji **Odbieranie** należy wskazać, dla którego podmiotu będą pobierane faktury – dla faktur zakupu należy wybrać **Podmiot 2**.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image48.png" style="width:6.19167in;height:2.96266in" /> 
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image48.png" style="width:6.19167in;height:2.96266in" /> 
 
 W polu **Dni początkowej synchronizacji** jest opcja określenia liczby dni, od których ma rozpocząć się synchronizacja w przypadku pierwszego pobrania dokumentów. Umożliwia to określenie, ile dni wstecz system sprawdzi i pobierze faktury z KSEF.
 
@@ -1036,11 +1036,11 @@ Pole **Rozmiar strony zapytania** określa, ile dokumentów zostanie pobranych i
 
 ## Wysłanie zapytania do MF
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image49.png" style="width:6.26389in;height:1.35417in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image49.png" style="width:6.26389in;height:1.35417in" />
 
 Aby wysłać zapytanie o pobranie faktur z KSeF, należy przejść do strony **Usługa e-dokumentu** i wybrać przycisk **Odbierz**.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image50.png" style="width:6.26389in;height:0.97488in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image50.png" style="width:6.26389in;height:0.97488in" />
 
 Alternatywnie, można skorzystać z poziomu menu **E-dokumenty** i wybrać opcję **Pobierz dokumenty KSeF**. W obu przypadkach system rozpocznie proces komunikacji z KSeF i pobierze dostępne dokumenty zgodnie z ustawieniami połączenia oraz zakresem synchronizacji określonym w konfiguracji.
 
@@ -1048,7 +1048,7 @@ Alternatywnie, można skorzystać z poziomu menu **E-dokumenty** i wybrać opcj�
 
 Pobrane dokumenty będą widoczne na stronie **Dokumenty przychodzące**.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image51.png" style="width:6.61355in;height:0.98333in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image51.png" style="width:6.61355in;height:0.98333in" />
 
 ## Przetwarzanie faktur zakupu 
 
@@ -1056,25 +1056,25 @@ Po otwarciu wybranego dokumentu z poziomu strony **Dokumenty przychodzące**, u�
 
 W tym miejscu prezentowane są kluczowe **dane nagłówkowe** pochodzące z faktury, takie jak: numer dokumentu, numer dokumentu KSeF, data wystawienia, termin płatności, kwota netto, kwota brutto, kod waluty, numer i nazwa dostawcy oraz **wiersze faktury**.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image52.png" style="width:6.26458in;height:1.97255in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image52.png" style="width:6.26458in;height:1.97255in" />
 
 Aby przetworzyć całą fakturę – nagłówek i wiersze, konieczne jest stworzenie mapowań opisu pozycji do odpowiednich kont księgowych poprzez funkcję **Mapuj tekst na konto**.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image53.png" style="width:6.26389in;height:1.65208in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image53.png" style="width:6.26389in;height:1.65208in" />
 
 Jeżeli któraś z pozycji na fakturze nie zostanie prawidłowo zmapowana, podczas przetwarzania dokumentu pojawi się błąd widoczny w sekcji **Komunikaty o błędzie**.
 
  
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image54.png" style="width:6.26378in;height:2.8622in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image54.png" style="width:6.26378in;height:2.8622in" />
 
 Następnie należy wybrać opcję **Przetwórz dokument ponownie**. Jeśli w trakcie ponownego przetwarzania nie zostaną wykryte żadne błędy, system utworzy fakturę zakupu na podstawie przetworzonego e-dokumentu.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image55.png" style="width:6.27361in;height:2.05972in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image55.png" style="width:6.27361in;height:2.05972in" />
 
 Po prawidłowym przetworzeniu dokumentu jego status zostanie automatycznie zmieniony na „**przetworzony**”. W widoku dokumentu pojawi się również **odnośnik do utworzonej faktury zakupu** z uzupełnionymi danymi nagłówkowymi oraz wierszami.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image56.png" style="width:4.64028in;height:1.77361in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image56.png" style="width:4.64028in;height:1.77361in" />
 
 ## Korekty z wierszami „przed/po” – zachowanie przy imporcie z KSeF
 
@@ -1102,15 +1102,15 @@ W celu uniknięcia niepoprawnych kalkulacji kwot, zaburzenia wartości dokumentu
 
 Aby utworzyć tylko nagłówek faktury zakupu bez wierszy, należy na e-dokumencie wybrać opcję **Utwórz nagłówek dokumentu zakupu**. Po jej kliknięciu pojawi się możliwość wyboru typu dokumentu – **faktura zakupu**, **zamówienie zakupu** lub **korekta faktury zakupu**. Po zatwierdzeniu wyboru utworzony zostanie dokument z uzupełnionymi danymi nagłówkowymi.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image57.png" style="width:6.27361in;height:1.5in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image57.png" style="width:6.27361in;height:1.5in" />
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image58.png" style="width:3.75in;height:1.71458in" />  
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image58.png" style="width:3.75in;height:1.71458in" />  
 
 ## Automatyczne tworzenie nagłówków dokumentów zakupu
 
 W przypadku dużych wolumenów dokumentów przychodzących, ręczne tworzenie nagłówka dla każdego dokumentu staje się nieefektywne. W celu automatyzacji tego procesu na stronie **Ustawienia KSeF** należy określić sposób przetwarzania importowanych dokumentów:
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image59.png" style="width:5.67053in;height:3.10417in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image59.png" style="width:5.67053in;height:3.10417in" />
 
 Dostępne są następujące opcje w polu Przetwarzanie:
 
@@ -1120,7 +1120,7 @@ Dostępne są następujące opcje w polu Przetwarzanie:
 
 3.  **Według ustawień dostawcy** - sposób przetwarzania dokumentów będzie zależał od konfiguracji określonej na kartotece poszczególnych dostawców.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image60.png" style="width:3.02343in;height:3.58075in" />Jeżeli automatyczne tworzenie dokumentów zakupu ma odbywać się wyłącznie dla wybranych dostawców, należy wybrać opcję **Według ustawień dostawcy**, a następnie na kartotece danego dostawcy ustawić wartość **Automatycznie** w polu **Utwórz nagłówki KSeF**:
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image60.png" style="width:3.02343in;height:3.58075in" />Jeżeli automatyczne tworzenie dokumentów zakupu ma odbywać się wyłącznie dla wybranych dostawców, należy wybrać opcję **Według ustawień dostawcy**, a następnie na kartotece danego dostawcy ustawić wartość **Automatycznie** w polu **Utwórz nagłówki KSeF**:
 
 W celu automatycznego utworzenia nagłówków zakupu dla dokumentów, które zostały już zaimportowane, należy na stronie **E-dokumenty** wybrać akcję **Utwórz dokument zakupu.**
 
@@ -1128,15 +1128,15 @@ W celu automatycznego utworzenia nagłówków zakupu dla dokumentów, które zos
 
 Na e-dokumencie dostępna jest opcja **Podgląd**, która umożliwia wizualizację faktury KSeF na podstawie danych z faktury ustrukturyzowanej XML. Dodatkowo użytkownik ma możliwość wyświetlenia pliku XML.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image61.png" style="width:6.27361in;height:1.47639in" /> 
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image61.png" style="width:6.27361in;height:1.47639in" /> 
 
 ## Podgląd dokumentu KSeF na fakturze zakupu
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image62.png" style="width:6.26389in;height:1.79306in" />Podgląd PDF dokumentu KSeF jest również dostępny z poziomu strony faktury zakupu. Aby go otworzyć, przejdź do sekcji „Przygotuj” i wybierz opcję „Podgląd dokumentu KSeF”.
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image62.png" style="width:6.26389in;height:1.79306in" />Podgląd PDF dokumentu KSeF jest również dostępny z poziomu strony faktury zakupu. Aby go otworzyć, przejdź do sekcji „Przygotuj” i wybierz opcję „Podgląd dokumentu KSeF”.
 
 ## Podgląd dokumentu KSeF na zaksięgowanej fakturze zakupu
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image63.png" style="width:6.26389in;height:1.59236in" />Na stronie zaksięgowanej faktury zakupu przejdź do sekcji „Faktura” i wybierz opcję „Podgląd dokumentu KSeF”.
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image63.png" style="width:6.26389in;height:1.59236in" />Na stronie zaksięgowanej faktury zakupu przejdź do sekcji „Faktura” i wybierz opcję „Podgląd dokumentu KSeF”.
 
 ## Monitorowanie importu dokumentów KSeF
 
@@ -1148,13 +1148,13 @@ W celu zwiększenia niezawodności procesu synchronizacji dokumentów z KSeF ora
 
 Aby włączyć funkcję logowania pobierania z KSeF, należy przejść do strony Ustawienia KSeF i w polu: "Log importu E-Dokumentów" ustawić wartość na Prawda. Po włączeniu tej opcji system rejestruje szczegółowe informacje dotyczące procesu pobierania dokumentów z KSeF.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image64.png" style="width:6.26389in;height:2.33056in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image64.png" style="width:6.26389in;height:2.33056in" />
 
 ### Logi KSeF
 
 Na stronie Logi KSeF można śledzić i analizować przebieg synchronizacji dokumentów.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image65.png" style="width:6.26378in;height:2.75984in" />
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image65.png" style="width:6.26378in;height:2.75984in" />
 
 Dla każdej operacji rejestrowane są między innymi:
 
@@ -1238,7 +1238,7 @@ Po uruchomieniu wpisu Kolejki zadań system będzie automatycznie pobierał doku
 
 Pole Partner 3 - identyfikator wewnętrzny na karcie klienta służy do przechowywania wewnętrznego identyfikatora klienta.
 
-<img src="images/locali-poland-user-guide-ksef-pl-v1-5-2026-10-05/image66.png" style="width:6.26389in;height:2.49583in" />Wartość z tego pola jest przenoszona do struktury NSEI, do sekcji \<Podmiot3\>.
+<img src="images/Localization-for-Poland_User-Manual-KSeF/image66.png" style="width:6.26389in;height:2.49583in" />Wartość z tego pola jest przenoszona do struktury NSEI, do sekcji \<Podmiot3\>.
 
 ## Nieprawidłowe aktywne sesje
 

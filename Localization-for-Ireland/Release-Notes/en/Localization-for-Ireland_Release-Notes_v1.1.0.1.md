@@ -1,7 +1,7 @@
 Localization for Ireland
 
 <figure>
-<img src="../Feature%20List/images/Localization-for-Ireland_Feature-List/image1.png" style="width:2.25in;height:0.57686in" alt="A blue and black logo Description automatically generated" />
+<img src="images/Localization-for-Ireland_Release-Notes_v1.1.0.1/image1.png" style="width:2.25in;height:0.57686in" alt="A blue and black logo Description automatically generated" />
 <figcaption><p>Microsoft Dynamics 365 Business Central</p></figcaption>
 </figure>
 
